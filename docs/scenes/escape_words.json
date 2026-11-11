@@ -1,0 +1,913 @@
+{
+ "voice": "en-US-AndrewNeural",
+ "rate": "+0%",
+ "gap": 0.3,
+ "duration": 56.94,
+ "speech_end": 56.64,
+ "sentences": [
+  {
+   "i": 1,
+   "text": "You're locked in a prison camp, and the only way out is under the fence.",
+   "start": 0.0,
+   "end": 4.08,
+   "words": [
+    {
+     "w": "You're",
+     "start": 0.0,
+     "end": 0.22
+    },
+    {
+     "w": "locked",
+     "start": 0.22,
+     "end": 0.42
+    },
+    {
+     "w": "in",
+     "start": 0.42,
+     "end": 0.62
+    },
+    {
+     "w": "a",
+     "start": 0.62,
+     "end": 0.68
+    },
+    {
+     "w": "prison",
+     "start": 0.68,
+     "end": 0.92
+    },
+    {
+     "w": "camp,",
+     "start": 0.92,
+     "end": 1.28
+    },
+    {
+     "w": "and",
+     "start": 1.6,
+     "end": 1.76
+    },
+    {
+     "w": "the",
+     "start": 1.76,
+     "end": 1.86
+    },
+    {
+     "w": "only",
+     "start": 1.86,
+     "end": 2.04
+    },
+    {
+     "w": "way",
+     "start": 2.04,
+     "end": 2.36
+    },
+    {
+     "w": "out",
+     "start": 2.36,
+     "end": 2.62
+    },
+    {
+     "w": "is",
+     "start": 2.62,
+     "end": 2.84
+    },
+    {
+     "w": "under",
+     "start": 2.84,
+     "end": 3.0
+    },
+    {
+     "w": "the",
+     "start": 3.0,
+     "end": 3.16
+    },
+    {
+     "w": "fence.",
+     "start": 3.16,
+     "end": 3.4
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "text": "But the guards buried microphones that hear every shovel.",
+   "start": 4.38,
+   "end": 8.316,
+   "words": [
+    {
+     "w": "But",
+     "start": 4.38,
+     "end": 4.64
+    },
+    {
+     "w": "the",
+     "start": 4.64,
+     "end": 4.76
+    },
+    {
+     "w": "guards",
+     "start": 4.76,
+     "end": 5.02
+    },
+    {
+     "w": "buried",
+     "start": 5.02,
+     "end": 5.36
+    },
+    {
+     "w": "microphones",
+     "start": 5.36,
+     "end": 5.96
+    },
+    {
+     "w": "that",
+     "start": 5.96,
+     "end": 6.36
+    },
+    {
+     "w": "hear",
+     "start": 6.36,
+     "end": 6.54
+    },
+    {
+     "w": "every",
+     "start": 6.54,
+     "end": 6.92
+    },
+    {
+     "w": "shovel.",
+     "start": 6.92,
+     "end": 7.2
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "text": "So you dig thirty feet straight down, too deep to be heard.",
+   "start": 8.616,
+   "end": 12.552,
+   "words": [
+    {
+     "w": "So",
+     "start": 8.616,
+     "end": 8.896
+    },
+    {
+     "w": "you",
+     "start": 8.896,
+     "end": 9.036
+    },
+    {
+     "w": "dig",
+     "start": 9.036,
+     "end": 9.216
+    },
+    {
+     "w": "thirty",
+     "start": 9.216,
+     "end": 9.496
+    },
+    {
+     "w": "feet",
+     "start": 9.496,
+     "end": 9.796
+    },
+    {
+     "w": "straight",
+     "start": 9.796,
+     "end": 10.056
+    },
+    {
+     "w": "down,",
+     "start": 10.056,
+     "end": 10.456
+    },
+    {
+     "w": "too",
+     "start": 10.696,
+     "end": 10.816
+    },
+    {
+     "w": "deep",
+     "start": 10.816,
+     "end": 11.016
+    },
+    {
+     "w": "to",
+     "start": 11.016,
+     "end": 11.156
+    },
+    {
+     "w": "be",
+     "start": 11.156,
+     "end": 11.276
+    },
+    {
+     "w": "heard.",
+     "start": 11.276,
+     "end": 11.496
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "text": "But this ground is pure sand, and the roof keeps falling in.",
+   "start": 12.852,
+   "end": 16.98,
+   "words": [
+    {
+     "w": "But",
+     "start": 12.852,
+     "end": 13.072
+    },
+    {
+     "w": "this",
+     "start": 13.072,
+     "end": 13.232
+    },
+    {
+     "w": "ground",
+     "start": 13.232,
+     "end": 13.552
+    },
+    {
+     "w": "is",
+     "start": 13.552,
+     "end": 13.812
+    },
+    {
+     "w": "pure",
+     "start": 13.812,
+     "end": 14.072
+    },
+    {
+     "w": "sand,",
+     "start": 14.072,
+     "end": 14.552
+    },
+    {
+     "w": "and",
+     "start": 14.552,
+     "end": 15.172
+    },
+    {
+     "w": "the",
+     "start": 15.172,
+     "end": 15.272
+    },
+    {
+     "w": "roof",
+     "start": 15.272,
+     "end": 15.532
+    },
+    {
+     "w": "keeps",
+     "start": 15.532,
+     "end": 15.852
+    },
+    {
+     "w": "falling",
+     "start": 15.852,
+     "end": 16.232
+    },
+    {
+     "w": "in.",
+     "start": 16.232,
+     "end": 16.532
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "text": "So you pull the boards out of your bed, and box in every foot.",
+   "start": 17.28,
+   "end": 21.144,
+   "words": [
+    {
+     "w": "So",
+     "start": 17.28,
+     "end": 17.5
+    },
+    {
+     "w": "you",
+     "start": 17.5,
+     "end": 17.6
+    },
+    {
+     "w": "pull",
+     "start": 17.6,
+     "end": 17.78
+    },
+    {
+     "w": "the",
+     "start": 17.78,
+     "end": 17.94
+    },
+    {
+     "w": "boards",
+     "start": 17.94,
+     "end": 18.16
+    },
+    {
+     "w": "out",
+     "start": 18.16,
+     "end": 18.38
+    },
+    {
+     "w": "of",
+     "start": 18.38,
+     "end": 18.46
+    },
+    {
+     "w": "your",
+     "start": 18.46,
+     "end": 18.56
+    },
+    {
+     "w": "bed,",
+     "start": 18.56,
+     "end": 18.82
+    },
+    {
+     "w": "and",
+     "start": 18.82,
+     "end": 19.3
+    },
+    {
+     "w": "box",
+     "start": 19.3,
+     "end": 19.6
+    },
+    {
+     "w": "in",
+     "start": 19.6,
+     "end": 19.96
+    },
+    {
+     "w": "every",
+     "start": 19.96,
+     "end": 20.28
+    },
+    {
+     "w": "foot.",
+     "start": 20.28,
+     "end": 20.66
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "text": "But down here, there's no air, and your lamp goes out.",
+   "start": 21.444,
+   "end": 25.188,
+   "words": [
+    {
+     "w": "But",
+     "start": 21.444,
+     "end": 21.684
+    },
+    {
+     "w": "down",
+     "start": 21.684,
+     "end": 21.904
+    },
+    {
+     "w": "here,",
+     "start": 21.904,
+     "end": 22.164
+    },
+    {
+     "w": "there's",
+     "start": 22.404,
+     "end": 22.604
+    },
+    {
+     "w": "no",
+     "start": 22.604,
+     "end": 22.764
+    },
+    {
+     "w": "air,",
+     "start": 22.764,
+     "end": 22.984
+    },
+    {
+     "w": "and",
+     "start": 23.284,
+     "end": 23.344
+    },
+    {
+     "w": "your",
+     "start": 23.344,
+     "end": 23.464
+    },
+    {
+     "w": "lamp",
+     "start": 23.464,
+     "end": 23.684
+    },
+    {
+     "w": "goes",
+     "start": 23.684,
+     "end": 23.904
+    },
+    {
+     "w": "out.",
+     "start": 23.904,
+     "end": 24.204
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "text": "So you build a pump from kit bags and hockey sticks, and push air through a pipe of milk tins.",
+   "start": 25.488,
+   "end": 31.08,
+   "words": [
+    {
+     "w": "So",
+     "start": 25.488,
+     "end": 25.788
+    },
+    {
+     "w": "you",
+     "start": 25.788,
+     "end": 25.928
+    },
+    {
+     "w": "build",
+     "start": 25.928,
+     "end": 26.108
+    },
+    {
+     "w": "a",
+     "start": 26.108,
+     "end": 26.248
+    },
+    {
+     "w": "pump",
+     "start": 26.248,
+     "end": 26.428
+    },
+    {
+     "w": "from",
+     "start": 26.428,
+     "end": 26.668
+    },
+    {
+     "w": "kit",
+     "start": 26.668,
+     "end": 26.888
+    },
+    {
+     "w": "bags",
+     "start": 26.888,
+     "end": 27.108
+    },
+    {
+     "w": "and",
+     "start": 27.108,
+     "end": 27.388
+    },
+    {
+     "w": "hockey",
+     "start": 27.388,
+     "end": 27.568
+    },
+    {
+     "w": "sticks,",
+     "start": 27.568,
+     "end": 27.908
+    },
+    {
+     "w": "and",
+     "start": 28.288,
+     "end": 28.428
+    },
+    {
+     "w": "push",
+     "start": 28.428,
+     "end": 28.608
+    },
+    {
+     "w": "air",
+     "start": 28.608,
+     "end": 28.808
+    },
+    {
+     "w": "through",
+     "start": 28.808,
+     "end": 29.028
+    },
+    {
+     "w": "a",
+     "start": 29.028,
+     "end": 29.168
+    },
+    {
+     "w": "pipe",
+     "start": 29.168,
+     "end": 29.348
+    },
+    {
+     "w": "of",
+     "start": 29.348,
+     "end": 29.528
+    },
+    {
+     "w": "milk",
+     "start": 29.528,
+     "end": 29.688
+    },
+    {
+     "w": "tins.",
+     "start": 29.688,
+     "end": 30.048
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "text": "But every bag of sand is bright yellow, and the ground up top is grey.",
+   "start": 31.38,
+   "end": 36.036,
+   "words": [
+    {
+     "w": "But",
+     "start": 31.38,
+     "end": 31.62
+    },
+    {
+     "w": "every",
+     "start": 31.62,
+     "end": 31.84
+    },
+    {
+     "w": "bag",
+     "start": 31.84,
+     "end": 32.1
+    },
+    {
+     "w": "of",
+     "start": 32.1,
+     "end": 32.26
+    },
+    {
+     "w": "sand",
+     "start": 32.26,
+     "end": 32.5
+    },
+    {
+     "w": "is",
+     "start": 32.5,
+     "end": 32.72
+    },
+    {
+     "w": "bright",
+     "start": 32.72,
+     "end": 32.94
+    },
+    {
+     "w": "yellow,",
+     "start": 32.94,
+     "end": 33.32
+    },
+    {
+     "w": "and",
+     "start": 33.66,
+     "end": 33.76
+    },
+    {
+     "w": "the",
+     "start": 33.76,
+     "end": 33.88
+    },
+    {
+     "w": "ground",
+     "start": 33.88,
+     "end": 34.1
+    },
+    {
+     "w": "up",
+     "start": 34.1,
+     "end": 34.26
+    },
+    {
+     "w": "top",
+     "start": 34.26,
+     "end": 34.5
+    },
+    {
+     "w": "is",
+     "start": 34.5,
+     "end": 34.68
+    },
+    {
+     "w": "grey.",
+     "start": 34.68,
+     "end": 34.68
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "text": "So you hide it in your trousers, and shake it out in the gardens.",
+   "start": 36.336,
+   "end": 40.44,
+   "words": [
+    {
+     "w": "So",
+     "start": 36.336,
+     "end": 36.636
+    },
+    {
+     "w": "you",
+     "start": 36.636,
+     "end": 36.776
+    },
+    {
+     "w": "hide",
+     "start": 36.776,
+     "end": 36.996
+    },
+    {
+     "w": "it",
+     "start": 36.996,
+     "end": 37.136
+    },
+    {
+     "w": "in",
+     "start": 37.136,
+     "end": 37.256
+    },
+    {
+     "w": "your",
+     "start": 37.256,
+     "end": 37.396
+    },
+    {
+     "w": "trousers,",
+     "start": 37.396,
+     "end": 37.736
+    },
+    {
+     "w": "and",
+     "start": 38.116,
+     "end": 38.236
+    },
+    {
+     "w": "shake",
+     "start": 38.236,
+     "end": 38.456
+    },
+    {
+     "w": "it",
+     "start": 38.456,
+     "end": 38.636
+    },
+    {
+     "w": "out",
+     "start": 38.636,
+     "end": 38.796
+    },
+    {
+     "w": "in",
+     "start": 38.796,
+     "end": 38.936
+    },
+    {
+     "w": "the",
+     "start": 38.936,
+     "end": 39.036
+    },
+    {
+     "w": "gardens.",
+     "start": 39.036,
+     "end": 39.296
+    }
+   ]
+  },
+  {
+   "i": 10,
+   "text": "Three hundred feet later, you break through, past the fence.",
+   "start": 40.74,
+   "end": 44.724,
+   "words": [
+    {
+     "w": "Three",
+     "start": 41.1,
+     "end": 41.1
+    },
+    {
+     "w": "hundred",
+     "start": 41.1,
+     "end": 41.1
+    },
+    {
+     "w": "feet",
+     "start": 41.1,
+     "end": 41.48
+    },
+    {
+     "w": "later,",
+     "start": 41.48,
+     "end": 41.86
+    },
+    {
+     "w": "you",
+     "start": 42.22,
+     "end": 42.38
+    },
+    {
+     "w": "break",
+     "start": 42.38,
+     "end": 42.6
+    },
+    {
+     "w": "through,",
+     "start": 42.6,
+     "end": 42.98
+    },
+    {
+     "w": "past",
+     "start": 42.98,
+     "end": 43.6
+    },
+    {
+     "w": "the",
+     "start": 43.6,
+     "end": 43.84
+    },
+    {
+     "w": "fence.",
+     "start": 43.84,
+     "end": 44.06
+    }
+   ]
+  },
+  {
+   "i": 11,
+   "text": "But you're short of the trees, right next to a guard tower.",
+   "start": 45.024,
+   "end": 48.24,
+   "words": [
+    {
+     "w": "But",
+     "start": 45.024,
+     "end": 45.224
+    },
+    {
+     "w": "you're",
+     "start": 45.224,
+     "end": 45.344
+    },
+    {
+     "w": "short",
+     "start": 45.344,
+     "end": 45.544
+    },
+    {
+     "w": "of",
+     "start": 45.544,
+     "end": 45.684
+    },
+    {
+     "w": "the",
+     "start": 45.684,
+     "end": 45.764
+    },
+    {
+     "w": "trees,",
+     "start": 45.764,
+     "end": 46.064
+    },
+    {
+     "w": "right",
+     "start": 46.544,
+     "end": 46.704
+    },
+    {
+     "w": "next",
+     "start": 46.704,
+     "end": 46.924
+    },
+    {
+     "w": "to",
+     "start": 46.924,
+     "end": 47.124
+    },
+    {
+     "w": "a",
+     "start": 47.124,
+     "end": 47.204
+    },
+    {
+     "w": "guard",
+     "start": 47.204,
+     "end": 47.364
+    },
+    {
+     "w": "tower.",
+     "start": 47.364,
+     "end": 47.704
+    }
+   ]
+  },
+  {
+   "i": 12,
+   "text": "Seventy-six men crawled out that night. Only three made it home.",
+   "start": 48.54,
+   "end": 53.916,
+   "words": [
+    {
+     "w": "Seventy-six",
+     "start": 49.08,
+     "end": 49.08
+    },
+    {
+     "w": "men",
+     "start": 49.08,
+     "end": 49.62
+    },
+    {
+     "w": "crawled",
+     "start": 49.62,
+     "end": 49.88
+    },
+    {
+     "w": "out",
+     "start": 49.88,
+     "end": 50.16
+    },
+    {
+     "w": "that",
+     "start": 50.16,
+     "end": 50.38
+    },
+    {
+     "w": "night.",
+     "start": 50.38,
+     "end": 50.66
+    },
+    {
+     "w": "Only",
+     "start": 51.74,
+     "end": 51.94
+    },
+    {
+     "w": "three",
+     "start": 51.94,
+     "end": 52.22
+    },
+    {
+     "w": "made",
+     "start": 52.22,
+     "end": 52.52
+    },
+    {
+     "w": "it",
+     "start": 52.52,
+     "end": 52.62
+    },
+    {
+     "w": "home.",
+     "start": 52.62,
+     "end": 52.88
+    }
+   ]
+  },
+  {
+   "i": 13,
+   "text": "This was the Great Escape.",
+   "start": 54.216,
+   "end": 56.64,
+   "words": [
+    {
+     "w": "This",
+     "start": 54.216,
+     "end": 54.596
+    },
+    {
+     "w": "was",
+     "start": 54.596,
+     "end": 54.756
+    },
+    {
+     "w": "the",
+     "start": 54.756,
+     "end": 54.936
+    },
+    {
+     "w": "Great",
+     "start": 54.936,
+     "end": 55.156
+    },
+    {
+     "w": "Escape.",
+     "start": 55.156,
+     "end": 55.536
+    }
+   ]
+  }
+ ]
+}

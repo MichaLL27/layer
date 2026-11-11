@@ -1,0 +1,980 @@
+{
+ "voice": "eleven:F635typDjR3WIF0qJAdL",
+ "model": "eleven_multilingual_v2",
+ "duration": 52.384,
+ "speech_end": 52.314,
+ "sentences": [
+  {
+   "i": 1,
+   "text": "This tower is about to fall over, and you have to save it.",
+   "start": 0.035,
+   "end": 3.111,
+   "words": [
+    {
+     "w": "This",
+     "start": 0.035,
+     "end": 0.244
+    },
+    {
+     "w": "tower",
+     "start": 0.302,
+     "end": 0.639
+    },
+    {
+     "w": "is",
+     "start": 0.755,
+     "end": 0.906
+    },
+    {
+     "w": "about",
+     "start": 0.952,
+     "end": 1.173
+    },
+    {
+     "w": "to",
+     "start": 1.207,
+     "end": 1.254
+    },
+    {
+     "w": "fall",
+     "start": 1.324,
+     "end": 1.556
+    },
+    {
+     "w": "over,",
+     "start": 1.625,
+     "end": 1.939
+    },
+    {
+     "w": "and",
+     "start": 1.974,
+     "end": 2.113
+    },
+    {
+     "w": "you",
+     "start": 2.159,
+     "end": 2.241
+    },
+    {
+     "w": "have",
+     "start": 2.357,
+     "end": 2.554
+    },
+    {
+     "w": "to",
+     "start": 2.577,
+     "end": 2.635
+    },
+    {
+     "w": "save",
+     "start": 2.694,
+     "end": 2.937
+    },
+    {
+     "w": "it.",
+     "start": 2.972,
+     "end": 3.111
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "text": "It's nearly fifteen thousand tons of marble on a foundation ten feet deep, in soft, wet clay.",
+   "start": 3.135,
+   "end": 8.707,
+   "words": [
+    {
+     "w": "It's",
+     "start": 3.135,
+     "end": 3.309
+    },
+    {
+     "w": "nearly",
+     "start": 3.355,
+     "end": 3.599
+    },
+    {
+     "w": "fifteen",
+     "start": 3.68,
+     "end": 4.145
+    },
+    {
+     "w": "thousand",
+     "start": 4.214,
+     "end": 4.632
+    },
+    {
+     "w": "tons",
+     "start": 4.69,
+     "end": 4.923
+    },
+    {
+     "w": "of",
+     "start": 4.969,
+     "end": 5.027
+    },
+    {
+     "w": "marble",
+     "start": 5.108,
+     "end": 5.492
+    },
+    {
+     "w": "on",
+     "start": 5.538,
+     "end": 5.689
+    },
+    {
+     "w": "a",
+     "start": 5.724,
+     "end": 5.747
+    },
+    {
+     "w": "foundation",
+     "start": 5.805,
+     "end": 6.327
+    },
+    {
+     "w": "ten",
+     "start": 6.385,
+     "end": 6.594
+    },
+    {
+     "w": "feet",
+     "start": 6.664,
+     "end": 6.873
+    },
+    {
+     "w": "deep,",
+     "start": 6.931,
+     "end": 7.291
+    },
+    {
+     "w": "in",
+     "start": 7.338,
+     "end": 7.477
+    },
+    {
+     "w": "soft,",
+     "start": 7.546,
+     "end": 7.895
+    },
+    {
+     "w": "wet",
+     "start": 7.93,
+     "end": 8.104
+    },
+    {
+     "w": "clay.",
+     "start": 8.162,
+     "end": 8.707
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "text": "And one side has been sinking for eight hundred years.",
+   "start": 9.091,
+   "end": 12.04,
+   "words": [
+    {
+     "w": "And",
+     "start": 9.091,
+     "end": 9.288
+    },
+    {
+     "w": "one",
+     "start": 9.369,
+     "end": 9.601
+    },
+    {
+     "w": "side",
+     "start": 9.648,
+     "end": 9.95
+    },
+    {
+     "w": "has",
+     "start": 9.985,
+     "end": 10.077
+    },
+    {
+     "w": "been",
+     "start": 10.124,
+     "end": 10.275
+    },
+    {
+     "w": "sinking",
+     "start": 10.333,
+     "end": 10.681
+    },
+    {
+     "w": "for",
+     "start": 10.751,
+     "end": 10.867
+    },
+    {
+     "w": "eight",
+     "start": 10.96,
+     "end": 11.157
+    },
+    {
+     "w": "hundred",
+     "start": 11.204,
+     "end": 11.459
+    },
+    {
+     "w": "years.",
+     "start": 11.505,
+     "end": 12.04
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "text": "So you stack six hundred tons of lead on the high side, and it stops.",
+   "start": 12.318,
+   "end": 16.033,
+   "words": [
+    {
+     "w": "So",
+     "start": 12.318,
+     "end": 12.481
+    },
+    {
+     "w": "you",
+     "start": 12.55,
+     "end": 12.632
+    },
+    {
+     "w": "stack",
+     "start": 12.713,
+     "end": 13.015
+    },
+    {
+     "w": "six",
+     "start": 13.131,
+     "end": 13.363
+    },
+    {
+     "w": "hundred",
+     "start": 13.421,
+     "end": 13.688
+    },
+    {
+     "w": "tons",
+     "start": 13.734,
+     "end": 13.99
+    },
+    {
+     "w": "of",
+     "start": 14.024,
+     "end": 14.082
+    },
+    {
+     "w": "lead",
+     "start": 14.164,
+     "end": 14.384
+    },
+    {
+     "w": "on",
+     "start": 14.431,
+     "end": 14.5
+    },
+    {
+     "w": "the",
+     "start": 14.535,
+     "end": 14.605
+    },
+    {
+     "w": "high",
+     "start": 14.663,
+     "end": 14.86
+    },
+    {
+     "w": "side,",
+     "start": 14.895,
+     "end": 15.243
+    },
+    {
+     "w": "and",
+     "start": 15.267,
+     "end": 15.383
+    },
+    {
+     "w": "it",
+     "start": 15.441,
+     "end": 15.499
+    },
+    {
+     "w": "stops.",
+     "start": 15.534,
+     "end": 16.033
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "text": "But it's ugly, so you try steel cables, anchored deep underground.",
+   "start": 16.056,
+   "end": 19.69,
+   "words": [
+    {
+     "w": "But",
+     "start": 16.056,
+     "end": 16.195
+    },
+    {
+     "w": "it's",
+     "start": 16.23,
+     "end": 16.358
+    },
+    {
+     "w": "ugly,",
+     "start": 16.404,
+     "end": 16.776
+    },
+    {
+     "w": "so",
+     "start": 16.811,
+     "end": 16.939
+    },
+    {
+     "w": "you",
+     "start": 16.997,
+     "end": 17.078
+    },
+    {
+     "w": "try",
+     "start": 17.136,
+     "end": 17.333
+    },
+    {
+     "w": "steel",
+     "start": 17.415,
+     "end": 17.705
+    },
+    {
+     "w": "cables,",
+     "start": 17.774,
+     "end": 18.25
+    },
+    {
+     "w": "anchored",
+     "start": 18.32,
+     "end": 18.68
+    },
+    {
+     "w": "deep",
+     "start": 18.761,
+     "end": 18.993
+    },
+    {
+     "w": "underground.",
+     "start": 19.052,
+     "end": 19.69
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "text": "To dig for them, you freeze the wet ground.",
+   "start": 19.76,
+   "end": 22.082,
+   "words": [
+    {
+     "w": "To",
+     "start": 19.76,
+     "end": 19.876
+    },
+    {
+     "w": "dig",
+     "start": 19.922,
+     "end": 20.108
+    },
+    {
+     "w": "for",
+     "start": 20.178,
+     "end": 20.34
+    },
+    {
+     "w": "them,",
+     "start": 20.41,
+     "end": 20.607
+    },
+    {
+     "w": "you",
+     "start": 20.642,
+     "end": 20.758
+    },
+    {
+     "w": "freeze",
+     "start": 20.874,
+     "end": 21.234
+    },
+    {
+     "w": "the",
+     "start": 21.269,
+     "end": 21.339
+    },
+    {
+     "w": "wet",
+     "start": 21.385,
+     "end": 21.548
+    },
+    {
+     "w": "ground.",
+     "start": 21.594,
+     "end": 22.082
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "text": "And overnight, the tower lurches the wrong way.",
+   "start": 22.326,
+   "end": 24.973,
+   "words": [
+    {
+     "w": "And",
+     "start": 22.326,
+     "end": 22.476
+    },
+    {
+     "w": "overnight,",
+     "start": 22.546,
+     "end": 23.08
+    },
+    {
+     "w": "the",
+     "start": 23.138,
+     "end": 23.243
+    },
+    {
+     "w": "tower",
+     "start": 23.301,
+     "end": 23.626
+    },
+    {
+     "w": "lurches",
+     "start": 23.707,
+     "end": 24.079
+    },
+    {
+     "w": "the",
+     "start": 24.137,
+     "end": 24.206
+    },
+    {
+     "w": "wrong",
+     "start": 24.253,
+     "end": 24.473
+    },
+    {
+     "w": "way.",
+     "start": 24.543,
+     "end": 24.973
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "text": "So you pile on three hundred more tons, fast.",
+   "start": 25.216,
+   "end": 28.27,
+   "words": [
+    {
+     "w": "So",
+     "start": 25.216,
+     "end": 25.367
+    },
+    {
+     "w": "you",
+     "start": 25.449,
+     "end": 25.53
+    },
+    {
+     "w": "pile",
+     "start": 25.623,
+     "end": 25.983
+    },
+    {
+     "w": "on",
+     "start": 26.041,
+     "end": 26.192
+    },
+    {
+     "w": "three",
+     "start": 26.262,
+     "end": 26.552
+    },
+    {
+     "w": "hundred",
+     "start": 26.598,
+     "end": 26.877
+    },
+    {
+     "w": "more",
+     "start": 26.935,
+     "end": 27.121
+    },
+    {
+     "w": "tons,",
+     "start": 27.167,
+     "end": 27.62
+    },
+    {
+     "w": "fast.",
+     "start": 27.701,
+     "end": 28.27
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "text": "Now you do the opposite of what makes sense.",
+   "start": 28.549,
+   "end": 30.557,
+   "words": [
+    {
+     "w": "Now",
+     "start": 28.549,
+     "end": 28.746
+    },
+    {
+     "w": "you",
+     "start": 28.839,
+     "end": 28.92
+    },
+    {
+     "w": "do",
+     "start": 28.99,
+     "end": 29.071
+    },
+    {
+     "w": "the",
+     "start": 29.141,
+     "end": 29.211
+    },
+    {
+     "w": "opposite",
+     "start": 29.28,
+     "end": 29.629
+    },
+    {
+     "w": "of",
+     "start": 29.652,
+     "end": 29.698
+    },
+    {
+     "w": "what",
+     "start": 29.768,
+     "end": 29.907
+    },
+    {
+     "w": "makes",
+     "start": 29.954,
+     "end": 30.151
+    },
+    {
+     "w": "sense.",
+     "start": 30.174,
+     "end": 30.557
+    }
+   ]
+  },
+  {
+   "i": 10,
+   "text": "You leave the sinking side alone, and you dig under the side that isn't sinking.",
+   "start": 30.673,
+   "end": 35.12,
+   "words": [
+    {
+     "w": "You",
+     "start": 30.673,
+     "end": 30.801
+    },
+    {
+     "w": "leave",
+     "start": 30.894,
+     "end": 31.161
+    },
+    {
+     "w": "the",
+     "start": 31.196,
+     "end": 31.266
+    },
+    {
+     "w": "sinking",
+     "start": 31.335,
+     "end": 31.684
+    },
+    {
+     "w": "side",
+     "start": 31.753,
+     "end": 31.997
+    },
+    {
+     "w": "alone,",
+     "start": 32.02,
+     "end": 32.496
+    },
+    {
+     "w": "and",
+     "start": 32.519,
+     "end": 32.659
+    },
+    {
+     "w": "you",
+     "start": 32.728,
+     "end": 32.81
+    },
+    {
+     "w": "dig",
+     "start": 32.926,
+     "end": 33.204
+    },
+    {
+     "w": "under",
+     "start": 33.321,
+     "end": 33.541
+    },
+    {
+     "w": "the",
+     "start": 33.599,
+     "end": 33.669
+    },
+    {
+     "w": "side",
+     "start": 33.727,
+     "end": 34.11
+    },
+    {
+     "w": "that",
+     "start": 34.168,
+     "end": 34.331
+    },
+    {
+     "w": "isn't",
+     "start": 34.377,
+     "end": 34.574
+    },
+    {
+     "w": "sinking.",
+     "start": 34.609,
+     "end": 35.12
+    }
+   ]
+  },
+  {
+   "i": 11,
+   "text": "A drill slides in at an angle and pulls out the soil, a little at a time.",
+   "start": 35.445,
+   "end": 39.891,
+   "words": [
+    {
+     "w": "A",
+     "start": 35.445,
+     "end": 35.538
+    },
+    {
+     "w": "drill",
+     "start": 35.608,
+     "end": 35.91
+    },
+    {
+     "w": "slides",
+     "start": 36.026,
+     "end": 36.478
+    },
+    {
+     "w": "in",
+     "start": 36.536,
+     "end": 36.664
+    },
+    {
+     "w": "at",
+     "start": 36.745,
+     "end": 36.862
+    },
+    {
+     "w": "an",
+     "start": 36.908,
+     "end": 36.966
+    },
+    {
+     "w": "angle",
+     "start": 37.024,
+     "end": 37.407
+    },
+    {
+     "w": "and",
+     "start": 37.442,
+     "end": 37.616
+    },
+    {
+     "w": "pulls",
+     "start": 37.709,
+     "end": 37.965
+    },
+    {
+     "w": "out",
+     "start": 38.011,
+     "end": 38.139
+    },
+    {
+     "w": "the",
+     "start": 38.173,
+     "end": 38.243
+    },
+    {
+     "w": "soil,",
+     "start": 38.301,
+     "end": 38.789
+    },
+    {
+     "w": "a",
+     "start": 38.858,
+     "end": 38.928
+    },
+    {
+     "w": "little",
+     "start": 39.021,
+     "end": 39.276
+    },
+    {
+     "w": "at",
+     "start": 39.3,
+     "end": 39.369
+    },
+    {
+     "w": "a",
+     "start": 39.404,
+     "end": 39.427
+    },
+    {
+     "w": "time.",
+     "start": 39.485,
+     "end": 39.891
+    }
+   ]
+  },
+  {
+   "i": 12,
+   "text": "The hole closes, the high side settles, and the whole tower rolls back.",
+   "start": 40.333,
+   "end": 44.245,
+   "words": [
+    {
+     "w": "The",
+     "start": 40.333,
+     "end": 40.449
+    },
+    {
+     "w": "hole",
+     "start": 40.495,
+     "end": 40.658
+    },
+    {
+     "w": "closes,",
+     "start": 40.692,
+     "end": 41.308
+    },
+    {
+     "w": "the",
+     "start": 41.366,
+     "end": 41.459
+    },
+    {
+     "w": "high",
+     "start": 41.517,
+     "end": 41.668
+    },
+    {
+     "w": "side",
+     "start": 41.703,
+     "end": 41.946
+    },
+    {
+     "w": "settles,",
+     "start": 41.993,
+     "end": 42.434
+    },
+    {
+     "w": "and",
+     "start": 42.457,
+     "end": 42.597
+    },
+    {
+     "w": "the",
+     "start": 42.643,
+     "end": 42.713
+    },
+    {
+     "w": "whole",
+     "start": 42.771,
+     "end": 43.003
+    },
+    {
+     "w": "tower",
+     "start": 43.038,
+     "end": 43.398
+    },
+    {
+     "w": "rolls",
+     "start": 43.514,
+     "end": 43.816
+    },
+    {
+     "w": "back.",
+     "start": 43.874,
+     "end": 44.245
+    }
+   ]
+  },
+  {
+   "i": 13,
+   "text": "Seventy tons of dirt, and the top moved back eighteen inches.",
+   "start": 44.326,
+   "end": 47.775,
+   "words": [
+    {
+     "w": "Seventy",
+     "start": 44.326,
+     "end": 44.721
+    },
+    {
+     "w": "tons",
+     "start": 44.791,
+     "end": 45.058
+    },
+    {
+     "w": "of",
+     "start": 45.093,
+     "end": 45.151
+    },
+    {
+     "w": "dirt,",
+     "start": 45.232,
+     "end": 45.557
+    },
+    {
+     "w": "and",
+     "start": 45.58,
+     "end": 45.708
+    },
+    {
+     "w": "the",
+     "start": 45.754,
+     "end": 45.824
+    },
+    {
+     "w": "top",
+     "start": 45.859,
+     "end": 46.068
+    },
+    {
+     "w": "moved",
+     "start": 46.149,
+     "end": 46.393
+    },
+    {
+     "w": "back",
+     "start": 46.451,
+     "end": 46.706
+    },
+    {
+     "w": "eighteen",
+     "start": 46.799,
+     "end": 47.217
+    },
+    {
+     "w": "inches.",
+     "start": 47.275,
+     "end": 47.775
+    }
+   ]
+  },
+  {
+   "i": 14,
+   "text": "It still leans, on purpose, and it's safe for at least two hundred more years.",
+   "start": 48.018,
+   "end": 52.314,
+   "words": [
+    {
+     "w": "It",
+     "start": 48.018,
+     "end": 48.146
+    },
+    {
+     "w": "still",
+     "start": 48.193,
+     "end": 48.402
+    },
+    {
+     "w": "leans,",
+     "start": 48.483,
+     "end": 48.901
+    },
+    {
+     "w": "on",
+     "start": 48.947,
+     "end": 49.121
+    },
+    {
+     "w": "purpose,",
+     "start": 49.191,
+     "end": 49.702
+    },
+    {
+     "w": "and",
+     "start": 49.771,
+     "end": 49.911
+    },
+    {
+     "w": "it's",
+     "start": 49.969,
+     "end": 50.085
+    },
+    {
+     "w": "safe",
+     "start": 50.12,
+     "end": 50.398
+    },
+    {
+     "w": "for",
+     "start": 50.433,
+     "end": 50.549
+    },
+    {
+     "w": "at",
+     "start": 50.596,
+     "end": 50.654
+    },
+    {
+     "w": "least",
+     "start": 50.712,
+     "end": 50.932
+    },
+    {
+     "w": "two",
+     "start": 50.991,
+     "end": 51.176
+    },
+    {
+     "w": "hundred",
+     "start": 51.246,
+     "end": 51.525
+    },
+    {
+     "w": "more",
+     "start": 51.583,
+     "end": 51.768
+    },
+    {
+     "w": "years.",
+     "start": 51.815,
+     "end": 52.314
+    }
+   ]
+  }
+ ]
+}

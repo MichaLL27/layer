@@ -1,0 +1,24 @@
+  0.0-  4.0  If you dig a hole in the jungle to hide from the bombs, you have a hideout, but soldiers
+  4.0-  8.4  walking past spot the hole right away, so you cover it with a small wooden lid hidden under
+  8.4-  9.4  leaves.
+  9.4- 14.1  This is a trap door, but every bomb that lands nearby makes the walls cave in, so you dig deeper
+ 14.1- 18.5  into hard red clay that dries like brick and tunnel sideways, but the fresh red dirt you
+ 18.5- 22.5  pile outside shows exactly where you are, so you carry it out at night and dump it in
+ 22.5- 23.5  the river.
+ 23.5- 27.5  But deep down, the air runs thin, and your lamp keeps going out, so you poke thin holes
+ 27.5- 30.2  up to the surface and hide them inside termite mounds.
+ 30.2- 34.4  This is an air vent, but when you cook, the smoke rises above the trees and everyone can
+ 34.4- 35.4  see it.
+ 35.4- 39.3  So you send it through a long tunnel that cools it down, until it leaks out far away, low
+ 39.3- 41.3  and thin like morning mist.
+ 41.3- 45.1  This is a smoke tunnel, but soldiers find an entrance and pump smoke into the tunnels to
+ 45.1- 48.6  drive you out, so you dig a dip in the tunnel and fill it with water.
+ 48.6- 50.2  The smoke stops right there.
+ 50.2- 51.3  This is a water trap.
+ 51.3- 55.8  Now you dig more levels, with bedrooms, kitchens, and even a hospital, until the tunnels run for
+ 55.8- 57.4  over a hundred kilometers.
+ 57.4- 61.3  And those tunnels are not tiny by mistake, they are just wide enough for you, so a big
+ 61.3- 65.6  soldier with a backpack gets stuck, at a hammock, a pot of rice, and a frog that lives in the
+ 65.6- 66.6  water trap.
+ 66.6- 67.6  Congratulations!
+ 67.6- 68.6  You have built the Kuchy Tunnels.

@@ -1,0 +1,1008 @@
+{
+ "voice": "en-US-AndrewNeural",
+ "rate": "+0%",
+ "gap": 0.3,
+ "duration": 60.036,
+ "speech_end": 59.736,
+ "sentences": [
+  {
+   "i": 1,
+   "text": "Drink this water, and you die faster.",
+   "start": 0.0,
+   "end": 2.616,
+   "words": [
+    {
+     "w": "Drink",
+     "start": 0.0,
+     "end": 0.24
+    },
+    {
+     "w": "this",
+     "start": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "water,",
+     "start": 0.48,
+     "end": 0.8
+    },
+    {
+     "w": "and",
+     "start": 0.8,
+     "end": 1.3
+    },
+    {
+     "w": "you",
+     "start": 1.3,
+     "end": 1.4
+    },
+    {
+     "w": "die",
+     "start": 1.4,
+     "end": 1.58
+    },
+    {
+     "w": "faster.",
+     "start": 1.58,
+     "end": 1.98
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "text": "You're stranded on an island, and thirst will kill you in three days.",
+   "start": 2.916,
+   "end": 6.852,
+   "words": [
+    {
+     "w": "You're",
+     "start": 2.916,
+     "end": 3.156
+    },
+    {
+     "w": "stranded",
+     "start": 3.156,
+     "end": 3.456
+    },
+    {
+     "w": "on",
+     "start": 3.456,
+     "end": 3.716
+    },
+    {
+     "w": "an",
+     "start": 3.716,
+     "end": 3.816
+    },
+    {
+     "w": "island,",
+     "start": 3.816,
+     "end": 4.056
+    },
+    {
+     "w": "and",
+     "start": 4.436,
+     "end": 4.636
+    },
+    {
+     "w": "thirst",
+     "start": 4.636,
+     "end": 4.856
+    },
+    {
+     "w": "will",
+     "start": 4.856,
+     "end": 5.096
+    },
+    {
+     "w": "kill",
+     "start": 5.096,
+     "end": 5.296
+    },
+    {
+     "w": "you",
+     "start": 5.296,
+     "end": 5.536
+    },
+    {
+     "w": "in",
+     "start": 5.536,
+     "end": 5.696
+    },
+    {
+     "w": "three",
+     "start": 5.696,
+     "end": 5.916
+    },
+    {
+     "w": "days.",
+     "start": 5.916,
+     "end": 6.236
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "text": "So you dig a hole on the beach, and it fills with water!",
+   "start": 7.152,
+   "end": 10.368,
+   "words": [
+    {
+     "w": "So",
+     "start": 7.152,
+     "end": 7.372
+    },
+    {
+     "w": "you",
+     "start": 7.372,
+     "end": 7.472
+    },
+    {
+     "w": "dig",
+     "start": 7.472,
+     "end": 7.632
+    },
+    {
+     "w": "a",
+     "start": 7.632,
+     "end": 7.732
+    },
+    {
+     "w": "hole",
+     "start": 7.732,
+     "end": 7.892
+    },
+    {
+     "w": "on",
+     "start": 7.892,
+     "end": 8.092
+    },
+    {
+     "w": "the",
+     "start": 8.092,
+     "end": 8.172
+    },
+    {
+     "w": "beach,",
+     "start": 8.172,
+     "end": 8.432
+    },
+    {
+     "w": "and",
+     "start": 8.432,
+     "end": 8.972
+    },
+    {
+     "w": "it",
+     "start": 8.972,
+     "end": 9.072
+    },
+    {
+     "w": "fills",
+     "start": 9.072,
+     "end": 9.312
+    },
+    {
+     "w": "with",
+     "start": 9.312,
+     "end": 9.552
+    },
+    {
+     "w": "water!",
+     "start": 9.552,
+     "end": 9.872
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "text": "But it's salt. The sea soaks right through the sand.",
+   "start": 10.668,
+   "end": 13.884,
+   "words": [
+    {
+     "w": "But",
+     "start": 10.668,
+     "end": 10.868
+    },
+    {
+     "w": "it's",
+     "start": 10.868,
+     "end": 11.048
+    },
+    {
+     "w": "salt.",
+     "start": 11.048,
+     "end": 11.268
+    },
+    {
+     "w": "The",
+     "start": 11.868,
+     "end": 11.908
+    },
+    {
+     "w": "sea",
+     "start": 11.908,
+     "end": 12.068
+    },
+    {
+     "w": "soaks",
+     "start": 12.068,
+     "end": 12.468
+    },
+    {
+     "w": "right",
+     "start": 12.468,
+     "end": 12.688
+    },
+    {
+     "w": "through",
+     "start": 12.688,
+     "end": 12.968
+    },
+    {
+     "w": "the",
+     "start": 12.968,
+     "end": 13.108
+    },
+    {
+     "w": "sand.",
+     "start": 13.108,
+     "end": 13.368
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "text": "So you walk inland, behind the dunes, and dig again.",
+   "start": 14.184,
+   "end": 17.76,
+   "words": [
+    {
+     "w": "So",
+     "start": 14.184,
+     "end": 14.424
+    },
+    {
+     "w": "you",
+     "start": 14.424,
+     "end": 14.564
+    },
+    {
+     "w": "walk",
+     "start": 14.564,
+     "end": 14.784
+    },
+    {
+     "w": "inland,",
+     "start": 14.784,
+     "end": 15.104
+    },
+    {
+     "w": "behind",
+     "start": 15.104,
+     "end": 15.744
+    },
+    {
+     "w": "the",
+     "start": 15.744,
+     "end": 15.984
+    },
+    {
+     "w": "dunes,",
+     "start": 15.984,
+     "end": 16.404
+    },
+    {
+     "w": "and",
+     "start": 16.404,
+     "end": 16.824
+    },
+    {
+     "w": "dig",
+     "start": 16.824,
+     "end": 16.984
+    },
+    {
+     "w": "again.",
+     "start": 16.984,
+     "end": 17.264
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "text": "This time, the water is fresh.",
+   "start": 18.06,
+   "end": 20.436,
+   "words": [
+    {
+     "w": "This",
+     "start": 18.06,
+     "end": 18.28
+    },
+    {
+     "w": "time,",
+     "start": 18.28,
+     "end": 18.58
+    },
+    {
+     "w": "the",
+     "start": 18.94,
+     "end": 19.06
+    },
+    {
+     "w": "water",
+     "start": 19.06,
+     "end": 19.28
+    },
+    {
+     "w": "is",
+     "start": 19.28,
+     "end": 19.5
+    },
+    {
+     "w": "fresh.",
+     "start": 19.5,
+     "end": 19.8
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "text": "Because rain sinks into the sand, and fresh water is lighter than salt water, so it floats.",
+   "start": 20.736,
+   "end": 26.592,
+   "words": [
+    {
+     "w": "Because",
+     "start": 20.736,
+     "end": 21.056
+    },
+    {
+     "w": "rain",
+     "start": 21.056,
+     "end": 21.276
+    },
+    {
+     "w": "sinks",
+     "start": 21.276,
+     "end": 21.676
+    },
+    {
+     "w": "into",
+     "start": 21.676,
+     "end": 21.936
+    },
+    {
+     "w": "the",
+     "start": 21.936,
+     "end": 22.056
+    },
+    {
+     "w": "sand,",
+     "start": 22.056,
+     "end": 22.396
+    },
+    {
+     "w": "and",
+     "start": 22.856,
+     "end": 23.016
+    },
+    {
+     "w": "fresh",
+     "start": 23.016,
+     "end": 23.296
+    },
+    {
+     "w": "water",
+     "start": 23.296,
+     "end": 23.616
+    },
+    {
+     "w": "is",
+     "start": 23.616,
+     "end": 23.876
+    },
+    {
+     "w": "lighter",
+     "start": 23.876,
+     "end": 24.116
+    },
+    {
+     "w": "than",
+     "start": 24.116,
+     "end": 24.396
+    },
+    {
+     "w": "salt",
+     "start": 24.396,
+     "end": 24.656
+    },
+    {
+     "w": "water,",
+     "start": 24.656,
+     "end": 25.036
+    },
+    {
+     "w": "so",
+     "start": 25.336,
+     "end": 25.516
+    },
+    {
+     "w": "it",
+     "start": 25.516,
+     "end": 25.636
+    },
+    {
+     "w": "floats.",
+     "start": 25.636,
+     "end": 25.836
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "text": "Right under your feet, a giant bubble of drinking water is sitting on top of the sea.",
+   "start": 26.892,
+   "end": 31.956,
+   "words": [
+    {
+     "w": "Right",
+     "start": 26.892,
+     "end": 27.132
+    },
+    {
+     "w": "under",
+     "start": 27.132,
+     "end": 27.252
+    },
+    {
+     "w": "your",
+     "start": 27.252,
+     "end": 27.452
+    },
+    {
+     "w": "feet,",
+     "start": 27.452,
+     "end": 27.752
+    },
+    {
+     "w": "a",
+     "start": 28.112,
+     "end": 28.312
+    },
+    {
+     "w": "giant",
+     "start": 28.312,
+     "end": 28.572
+    },
+    {
+     "w": "bubble",
+     "start": 28.572,
+     "end": 28.952
+    },
+    {
+     "w": "of",
+     "start": 28.952,
+     "end": 29.232
+    },
+    {
+     "w": "drinking",
+     "start": 29.232,
+     "end": 29.472
+    },
+    {
+     "w": "water",
+     "start": 29.472,
+     "end": 29.972
+    },
+    {
+     "w": "is",
+     "start": 29.972,
+     "end": 30.292
+    },
+    {
+     "w": "sitting",
+     "start": 30.292,
+     "end": 30.532
+    },
+    {
+     "w": "on",
+     "start": 30.532,
+     "end": 30.752
+    },
+    {
+     "w": "top",
+     "start": 30.752,
+     "end": 30.992
+    },
+    {
+     "w": "of",
+     "start": 30.992,
+     "end": 31.132
+    },
+    {
+     "w": "the",
+     "start": 31.132,
+     "end": 31.232
+    },
+    {
+     "w": "sea.",
+     "start": 31.232,
+     "end": 31.432
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "text": "Every foot it rises above sea level, it pushes forty feet down.",
+   "start": 32.256,
+   "end": 36.456,
+   "words": [
+    {
+     "w": "Every",
+     "start": 32.256,
+     "end": 32.556
+    },
+    {
+     "w": "foot",
+     "start": 32.556,
+     "end": 32.776
+    },
+    {
+     "w": "it",
+     "start": 32.776,
+     "end": 32.876
+    },
+    {
+     "w": "rises",
+     "start": 32.876,
+     "end": 33.116
+    },
+    {
+     "w": "above",
+     "start": 33.116,
+     "end": 33.576
+    },
+    {
+     "w": "sea",
+     "start": 33.576,
+     "end": 33.916
+    },
+    {
+     "w": "level,",
+     "start": 33.916,
+     "end": 34.316
+    },
+    {
+     "w": "it",
+     "start": 34.616,
+     "end": 34.756
+    },
+    {
+     "w": "pushes",
+     "start": 34.756,
+     "end": 34.996
+    },
+    {
+     "w": "forty",
+     "start": 34.996,
+     "end": 35.416
+    },
+    {
+     "w": "feet",
+     "start": 35.416,
+     "end": 35.676
+    },
+    {
+     "w": "down.",
+     "start": 35.676,
+     "end": 35.956
+    }
+   ]
+  },
+  {
+   "i": 10,
+   "text": "But this close to the shore, it's thin. Dig too deep, and you punch into the salt.",
+   "start": 36.756,
+   "end": 42.012,
+   "words": [
+    {
+     "w": "But",
+     "start": 36.756,
+     "end": 36.956
+    },
+    {
+     "w": "this",
+     "start": 36.956,
+     "end": 37.116
+    },
+    {
+     "w": "close",
+     "start": 37.116,
+     "end": 37.376
+    },
+    {
+     "w": "to",
+     "start": 37.376,
+     "end": 37.636
+    },
+    {
+     "w": "the",
+     "start": 37.636,
+     "end": 37.716
+    },
+    {
+     "w": "shore,",
+     "start": 37.716,
+     "end": 37.956
+    },
+    {
+     "w": "it's",
+     "start": 38.356,
+     "end": 38.516
+    },
+    {
+     "w": "thin.",
+     "start": 38.516,
+     "end": 38.716
+    },
+    {
+     "w": "Dig",
+     "start": 39.176,
+     "end": 39.396
+    },
+    {
+     "w": "too",
+     "start": 39.396,
+     "end": 39.636
+    },
+    {
+     "w": "deep,",
+     "start": 39.636,
+     "end": 39.996
+    },
+    {
+     "w": "and",
+     "start": 40.356,
+     "end": 40.516
+    },
+    {
+     "w": "you",
+     "start": 40.516,
+     "end": 40.616
+    },
+    {
+     "w": "punch",
+     "start": 40.616,
+     "end": 40.856
+    },
+    {
+     "w": "into",
+     "start": 40.856,
+     "end": 41.096
+    },
+    {
+     "w": "the",
+     "start": 41.096,
+     "end": 41.216
+    },
+    {
+     "w": "salt.",
+     "start": 41.216,
+     "end": 41.476
+    }
+   ]
+  },
+  {
+   "i": 11,
+   "text": "So you stop the moment you see water, and you line the hole with driftwood so the sand can't cave in.",
+   "start": 42.312,
+   "end": 47.736,
+   "words": [
+    {
+     "w": "So",
+     "start": 42.312,
+     "end": 42.552
+    },
+    {
+     "w": "you",
+     "start": 42.552,
+     "end": 42.652
+    },
+    {
+     "w": "stop",
+     "start": 42.652,
+     "end": 42.852
+    },
+    {
+     "w": "the",
+     "start": 42.852,
+     "end": 43.052
+    },
+    {
+     "w": "moment",
+     "start": 43.052,
+     "end": 43.292
+    },
+    {
+     "w": "you",
+     "start": 43.292,
+     "end": 43.452
+    },
+    {
+     "w": "see",
+     "start": 43.452,
+     "end": 43.632
+    },
+    {
+     "w": "water,",
+     "start": 43.632,
+     "end": 43.972
+    },
+    {
+     "w": "and",
+     "start": 43.972,
+     "end": 44.452
+    },
+    {
+     "w": "you",
+     "start": 44.452,
+     "end": 44.552
+    },
+    {
+     "w": "line",
+     "start": 44.552,
+     "end": 44.732
+    },
+    {
+     "w": "the",
+     "start": 44.732,
+     "end": 44.912
+    },
+    {
+     "w": "hole",
+     "start": 44.912,
+     "end": 45.092
+    },
+    {
+     "w": "with",
+     "start": 45.092,
+     "end": 45.292
+    },
+    {
+     "w": "driftwood",
+     "start": 45.292,
+     "end": 45.792
+    },
+    {
+     "w": "so",
+     "start": 45.792,
+     "end": 46.172
+    },
+    {
+     "w": "the",
+     "start": 46.172,
+     "end": 46.292
+    },
+    {
+     "w": "sand",
+     "start": 46.292,
+     "end": 46.552
+    },
+    {
+     "w": "can't",
+     "start": 46.552,
+     "end": 46.912
+    },
+    {
+     "w": "cave",
+     "start": 46.912,
+     "end": 47.052
+    },
+    {
+     "w": "in.",
+     "start": 47.052,
+     "end": 47.292
+    }
+   ]
+  },
+  {
+   "i": 12,
+   "text": "And you scoop slowly, because if you take too much, the salt rises to meet you.",
+   "start": 48.036,
+   "end": 53.076,
+   "words": [
+    {
+     "w": "And",
+     "start": 48.036,
+     "end": 48.256
+    },
+    {
+     "w": "you",
+     "start": 48.256,
+     "end": 48.376
+    },
+    {
+     "w": "scoop",
+     "start": 48.376,
+     "end": 48.596
+    },
+    {
+     "w": "slowly,",
+     "start": 48.596,
+     "end": 49.096
+    },
+    {
+     "w": "because",
+     "start": 49.456,
+     "end": 49.696
+    },
+    {
+     "w": "if",
+     "start": 49.696,
+     "end": 49.836
+    },
+    {
+     "w": "you",
+     "start": 49.836,
+     "end": 49.956
+    },
+    {
+     "w": "take",
+     "start": 49.956,
+     "end": 50.136
+    },
+    {
+     "w": "too",
+     "start": 50.136,
+     "end": 50.376
+    },
+    {
+     "w": "much,",
+     "start": 50.376,
+     "end": 50.696
+    },
+    {
+     "w": "the",
+     "start": 51.236,
+     "end": 51.276
+    },
+    {
+     "w": "salt",
+     "start": 51.276,
+     "end": 51.496
+    },
+    {
+     "w": "rises",
+     "start": 51.496,
+     "end": 51.976
+    },
+    {
+     "w": "to",
+     "start": 51.976,
+     "end": 52.216
+    },
+    {
+     "w": "meet",
+     "start": 52.216,
+     "end": 52.396
+    },
+    {
+     "w": "you.",
+     "start": 52.396,
+     "end": 52.676
+    }
+   ]
+  },
+  {
+   "i": 13,
+   "text": "Boil it, and you just bought yourself weeks. People have lived on tiny islands like this for thousands of years.",
+   "start": 53.376,
+   "end": 59.736,
+   "words": [
+    {
+     "w": "Boil",
+     "start": 53.376,
+     "end": 53.736
+    },
+    {
+     "w": "it,",
+     "start": 53.736,
+     "end": 53.836
+    },
+    {
+     "w": "and",
+     "start": 54.076,
+     "end": 54.236
+    },
+    {
+     "w": "you",
+     "start": 54.236,
+     "end": 54.316
+    },
+    {
+     "w": "just",
+     "start": 54.316,
+     "end": 54.476
+    },
+    {
+     "w": "bought",
+     "start": 54.476,
+     "end": 54.656
+    },
+    {
+     "w": "yourself",
+     "start": 54.656,
+     "end": 55.056
+    },
+    {
+     "w": "weeks.",
+     "start": 55.056,
+     "end": 55.296
+    },
+    {
+     "w": "People",
+     "start": 56.036,
+     "end": 56.156
+    },
+    {
+     "w": "have",
+     "start": 56.156,
+     "end": 56.396
+    },
+    {
+     "w": "lived",
+     "start": 56.396,
+     "end": 56.596
+    },
+    {
+     "w": "on",
+     "start": 56.596,
+     "end": 56.816
+    },
+    {
+     "w": "tiny",
+     "start": 56.816,
+     "end": 57.076
+    },
+    {
+     "w": "islands",
+     "start": 57.076,
+     "end": 57.596
+    },
+    {
+     "w": "like",
+     "start": 57.596,
+     "end": 57.896
+    },
+    {
+     "w": "this",
+     "start": 57.896,
+     "end": 58.096
+    },
+    {
+     "w": "for",
+     "start": 58.096,
+     "end": 58.296
+    },
+    {
+     "w": "thousands",
+     "start": 58.296,
+     "end": 58.616
+    },
+    {
+     "w": "of",
+     "start": 58.616,
+     "end": 58.896
+    },
+    {
+     "w": "years.",
+     "start": 58.896,
+     "end": 59.116
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,875 @@
+{
+ "voice": "eleven:F635typDjR3WIF0qJAdL",
+ "model": "eleven_multilingual_v2",
+ "duration": 48.901,
+ "speech_end": 48.715,
+ "sentences": [
+  {
+   "i": 1,
+   "text": "How is a well dug, and why is its water clean? Let's cut the ground open.",
+   "start": 0.035,
+   "end": 3.796,
+   "words": [
+    {
+     "w": "How",
+     "start": 0.035,
+     "end": 0.174
+    },
+    {
+     "w": "is",
+     "start": 0.244,
+     "end": 0.325
+    },
+    {
+     "w": "a",
+     "start": 0.372,
+     "end": 0.395
+    },
+    {
+     "w": "well",
+     "start": 0.453,
+     "end": 0.662
+    },
+    {
+     "w": "dug,",
+     "start": 0.72,
+     "end": 1.103
+    },
+    {
+     "w": "and",
+     "start": 1.138,
+     "end": 1.277
+    },
+    {
+     "w": "why",
+     "start": 1.347,
+     "end": 1.567
+    },
+    {
+     "w": "is",
+     "start": 1.637,
+     "end": 1.718
+    },
+    {
+     "w": "its",
+     "start": 1.765,
+     "end": 1.869
+    },
+    {
+     "w": "water",
+     "start": 1.916,
+     "end": 2.159
+    },
+    {
+     "w": "clean?",
+     "start": 2.218,
+     "end": 2.566
+    },
+    {
+     "w": "Let's",
+     "start": 2.612,
+     "end": 2.81
+    },
+    {
+     "w": "cut",
+     "start": 2.856,
+     "end": 3.007
+    },
+    {
+     "w": "the",
+     "start": 3.042,
+     "end": 3.111
+    },
+    {
+     "w": "ground",
+     "start": 3.146,
+     "end": 3.413
+    },
+    {
+     "w": "open.",
+     "start": 3.471,
+     "end": 3.796
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "text": "Under your feet, water hides in sand, gravel and cracked rock. A well is how we reach it.",
+   "start": 3.855,
+   "end": 9.3,
+   "words": [
+    {
+     "w": "Under",
+     "start": 3.855,
+     "end": 4.063
+    },
+    {
+     "w": "your",
+     "start": 4.11,
+     "end": 4.238
+    },
+    {
+     "w": "feet,",
+     "start": 4.296,
+     "end": 4.621
+    },
+    {
+     "w": "water",
+     "start": 4.679,
+     "end": 4.969
+    },
+    {
+     "w": "hides",
+     "start": 5.016,
+     "end": 5.283
+    },
+    {
+     "w": "in",
+     "start": 5.317,
+     "end": 5.387
+    },
+    {
+     "w": "sand,",
+     "start": 5.468,
+     "end": 5.863
+    },
+    {
+     "w": "gravel",
+     "start": 5.921,
+     "end": 6.339
+    },
+    {
+     "w": "and",
+     "start": 6.397,
+     "end": 6.467
+    },
+    {
+     "w": "cracked",
+     "start": 6.536,
+     "end": 6.873
+    },
+    {
+     "w": "rock.",
+     "start": 6.931,
+     "end": 7.43
+    },
+    {
+     "w": "A",
+     "start": 7.755,
+     "end": 7.837
+    },
+    {
+     "w": "well",
+     "start": 7.918,
+     "end": 8.185
+    },
+    {
+     "w": "is",
+     "start": 8.255,
+     "end": 8.336
+    },
+    {
+     "w": "how",
+     "start": 8.394,
+     "end": 8.51
+    },
+    {
+     "w": "we",
+     "start": 8.568,
+     "end": 8.661
+    },
+    {
+     "w": "reach",
+     "start": 8.754,
+     "end": 8.963
+    },
+    {
+     "w": "it.",
+     "start": 9.009,
+     "end": 9.3
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "text": "First, a drill rig bores a narrow hole straight down, sometimes hundreds of feet.",
+   "start": 9.625,
+   "end": 14.512,
+   "words": [
+    {
+     "w": "First,",
+     "start": 9.625,
+     "end": 10.077
+    },
+    {
+     "w": "a",
+     "start": 10.228,
+     "end": 10.298
+    },
+    {
+     "w": "drill",
+     "start": 10.379,
+     "end": 10.681
+    },
+    {
+     "w": "rig",
+     "start": 10.751,
+     "end": 10.948
+    },
+    {
+     "w": "bores",
+     "start": 11.006,
+     "end": 11.343
+    },
+    {
+     "w": "a",
+     "start": 11.401,
+     "end": 11.424
+    },
+    {
+     "w": "narrow",
+     "start": 11.54,
+     "end": 11.854
+    },
+    {
+     "w": "hole",
+     "start": 11.923,
+     "end": 12.214
+    },
+    {
+     "w": "straight",
+     "start": 12.272,
+     "end": 12.608
+    },
+    {
+     "w": "down,",
+     "start": 12.643,
+     "end": 13.038
+    },
+    {
+     "w": "sometimes",
+     "start": 13.084,
+     "end": 13.572
+    },
+    {
+     "w": "hundreds",
+     "start": 13.653,
+     "end": 14.001
+    },
+    {
+     "w": "of",
+     "start": 14.036,
+     "end": 14.094
+    },
+    {
+     "w": "feet.",
+     "start": 14.129,
+     "end": 14.512
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "text": "But a bare hole would cave in. So a strong pipe, called the casing, is lowered inside to hold the walls.",
+   "start": 14.756,
+   "end": 20.457,
+   "words": [
+    {
+     "w": "But",
+     "start": 14.756,
+     "end": 14.907
+    },
+    {
+     "w": "a",
+     "start": 14.942,
+     "end": 14.965
+    },
+    {
+     "w": "bare",
+     "start": 15.035,
+     "end": 15.278
+    },
+    {
+     "w": "hole",
+     "start": 15.313,
+     "end": 15.522
+    },
+    {
+     "w": "would",
+     "start": 15.546,
+     "end": 15.696
+    },
+    {
+     "w": "cave",
+     "start": 15.731,
+     "end": 15.975
+    },
+    {
+     "w": "in.",
+     "start": 16.022,
+     "end": 16.242
+    },
+    {
+     "w": "So",
+     "start": 16.265,
+     "end": 16.405
+    },
+    {
+     "w": "a",
+     "start": 16.474,
+     "end": 16.498
+    },
+    {
+     "w": "strong",
+     "start": 16.556,
+     "end": 16.881
+    },
+    {
+     "w": "pipe,",
+     "start": 16.95,
+     "end": 17.31
+    },
+    {
+     "w": "called",
+     "start": 17.357,
+     "end": 17.589
+    },
+    {
+     "w": "the",
+     "start": 17.612,
+     "end": 17.682
+    },
+    {
+     "w": "casing,",
+     "start": 17.717,
+     "end": 18.158
+    },
+    {
+     "w": "is",
+     "start": 18.193,
+     "end": 18.344
+    },
+    {
+     "w": "lowered",
+     "start": 18.425,
+     "end": 18.738
+    },
+    {
+     "w": "inside",
+     "start": 18.808,
+     "end": 19.435
+    },
+    {
+     "w": "to",
+     "start": 19.493,
+     "end": 19.597
+    },
+    {
+     "w": "hold",
+     "start": 19.667,
+     "end": 19.83
+    },
+    {
+     "w": "the",
+     "start": 19.864,
+     "end": 19.934
+    },
+    {
+     "w": "walls.",
+     "start": 19.969,
+     "end": 20.457
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "text": "Now comes the part that keeps your water clean. The gap around that pipe is filled with clay and cement, so dirty rain can't sneak down the outside.",
+   "start": 20.967,
+   "end": 29.605,
+   "words": [
+    {
+     "w": "Now",
+     "start": 20.967,
+     "end": 21.153
+    },
+    {
+     "w": "comes",
+     "start": 21.223,
+     "end": 21.443
+    },
+    {
+     "w": "the",
+     "start": 21.49,
+     "end": 21.559
+    },
+    {
+     "w": "part",
+     "start": 21.606,
+     "end": 21.815
+    },
+    {
+     "w": "that",
+     "start": 21.861,
+     "end": 21.977
+    },
+    {
+     "w": "keeps",
+     "start": 22.035,
+     "end": 22.303
+    },
+    {
+     "w": "your",
+     "start": 22.337,
+     "end": 22.465
+    },
+    {
+     "w": "water",
+     "start": 22.535,
+     "end": 22.825
+    },
+    {
+     "w": "clean.",
+     "start": 22.883,
+     "end": 23.359
+    },
+    {
+     "w": "The",
+     "start": 23.8,
+     "end": 23.916
+    },
+    {
+     "w": "gap",
+     "start": 23.974,
+     "end": 24.183
+    },
+    {
+     "w": "around",
+     "start": 24.23,
+     "end": 24.485
+    },
+    {
+     "w": "that",
+     "start": 24.543,
+     "end": 24.671
+    },
+    {
+     "w": "pipe",
+     "start": 24.741,
+     "end": 25.042
+    },
+    {
+     "w": "is",
+     "start": 25.089,
+     "end": 25.182
+    },
+    {
+     "w": "filled",
+     "start": 25.263,
+     "end": 25.577
+    },
+    {
+     "w": "with",
+     "start": 25.623,
+     "end": 25.774
+    },
+    {
+     "w": "clay",
+     "start": 25.832,
+     "end": 26.215
+    },
+    {
+     "w": "and",
+     "start": 26.296,
+     "end": 26.412
+    },
+    {
+     "w": "cement,",
+     "start": 26.482,
+     "end": 26.981
+    },
+    {
+     "w": "so",
+     "start": 27.027,
+     "end": 27.26
+    },
+    {
+     "w": "dirty",
+     "start": 27.376,
+     "end": 27.654
+    },
+    {
+     "w": "rain",
+     "start": 27.736,
+     "end": 27.979
+    },
+    {
+     "w": "can't",
+     "start": 28.061,
+     "end": 28.328
+    },
+    {
+     "w": "sneak",
+     "start": 28.374,
+     "end": 28.63
+    },
+    {
+     "w": "down",
+     "start": 28.688,
+     "end": 28.873
+    },
+    {
+     "w": "the",
+     "start": 28.908,
+     "end": 28.978
+    },
+    {
+     "w": "outside.",
+     "start": 29.036,
+     "end": 29.605
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "text": "At the bottom sits a screen, a pipe full of tiny slots. Water squeezes in. Sand stays out.",
+   "start": 29.64,
+   "end": 35.572,
+   "words": [
+    {
+     "w": "At",
+     "start": 29.64,
+     "end": 29.767
+    },
+    {
+     "w": "the",
+     "start": 29.802,
+     "end": 29.872
+    },
+    {
+     "w": "bottom",
+     "start": 29.918,
+     "end": 30.232
+    },
+    {
+     "w": "sits",
+     "start": 30.313,
+     "end": 30.534
+    },
+    {
+     "w": "a",
+     "start": 30.568,
+     "end": 30.592
+    },
+    {
+     "w": "screen,",
+     "start": 30.65,
+     "end": 31.172
+    },
+    {
+     "w": "a",
+     "start": 31.207,
+     "end": 31.277
+    },
+    {
+     "w": "pipe",
+     "start": 31.37,
+     "end": 31.648
+    },
+    {
+     "w": "full",
+     "start": 31.695,
+     "end": 31.915
+    },
+    {
+     "w": "of",
+     "start": 31.973,
+     "end": 32.031
+    },
+    {
+     "w": "tiny",
+     "start": 32.101,
+     "end": 32.391
+    },
+    {
+     "w": "slots.",
+     "start": 32.438,
+     "end": 33.018
+    },
+    {
+     "w": "Water",
+     "start": 33.401,
+     "end": 33.726
+    },
+    {
+     "w": "squeezes",
+     "start": 33.784,
+     "end": 34.226
+    },
+    {
+     "w": "in.",
+     "start": 34.295,
+     "end": 34.493
+    },
+    {
+     "w": "Sand",
+     "start": 34.551,
+     "end": 34.853
+    },
+    {
+     "w": "stays",
+     "start": 34.911,
+     "end": 35.189
+    },
+    {
+     "w": "out.",
+     "start": 35.236,
+     "end": 35.572
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "text": "A pump drops down on a pipe and pushes the water up to your home.",
+   "start": 35.897,
+   "end": 39.427,
+   "words": [
+    {
+     "w": "A",
+     "start": 35.897,
+     "end": 35.979
+    },
+    {
+     "w": "pump",
+     "start": 36.072,
+     "end": 36.327
+    },
+    {
+     "w": "drops",
+     "start": 36.397,
+     "end": 36.733
+    },
+    {
+     "w": "down",
+     "start": 36.78,
+     "end": 37.0
+    },
+    {
+     "w": "on",
+     "start": 37.058,
+     "end": 37.128
+    },
+    {
+     "w": "a",
+     "start": 37.175,
+     "end": 37.198
+    },
+    {
+     "w": "pipe",
+     "start": 37.256,
+     "end": 37.569
+    },
+    {
+     "w": "and",
+     "start": 37.604,
+     "end": 37.709
+    },
+    {
+     "w": "pushes",
+     "start": 37.79,
+     "end": 38.127
+    },
+    {
+     "w": "the",
+     "start": 38.185,
+     "end": 38.254
+    },
+    {
+     "w": "water",
+     "start": 38.312,
+     "end": 38.591
+    },
+    {
+     "w": "up",
+     "start": 38.649,
+     "end": 38.754
+    },
+    {
+     "w": "to",
+     "start": 38.8,
+     "end": 38.846
+    },
+    {
+     "w": "your",
+     "start": 38.904,
+     "end": 39.021
+    },
+    {
+     "w": "home.",
+     "start": 39.067,
+     "end": 39.427
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "text": "On top, a sealed cap, and the ground slopes away so puddles never reach it.",
+   "start": 39.868,
+   "end": 44.349,
+   "words": [
+    {
+     "w": "On",
+     "start": 39.868,
+     "end": 40.054
+    },
+    {
+     "w": "top,",
+     "start": 40.112,
+     "end": 40.553
+    },
+    {
+     "w": "a",
+     "start": 40.623,
+     "end": 40.692
+    },
+    {
+     "w": "sealed",
+     "start": 40.774,
+     "end": 41.076
+    },
+    {
+     "w": "cap,",
+     "start": 41.145,
+     "end": 41.61
+    },
+    {
+     "w": "and",
+     "start": 41.633,
+     "end": 41.772
+    },
+    {
+     "w": "the",
+     "start": 41.807,
+     "end": 41.876
+    },
+    {
+     "w": "ground",
+     "start": 41.923,
+     "end": 42.248
+    },
+    {
+     "w": "slopes",
+     "start": 42.317,
+     "end": 42.643
+    },
+    {
+     "w": "away",
+     "start": 42.677,
+     "end": 42.944
+    },
+    {
+     "w": "so",
+     "start": 43.026,
+     "end": 43.165
+    },
+    {
+     "w": "puddles",
+     "start": 43.258,
+     "end": 43.606
+    },
+    {
+     "w": "never",
+     "start": 43.676,
+     "end": 43.873
+    },
+    {
+     "w": "reach",
+     "start": 43.943,
+     "end": 44.152
+    },
+    {
+     "w": "it.",
+     "start": 44.21,
+     "end": 44.349
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "text": "Last, the well is flushed with chlorine, so the very first glass is germ-free.",
+   "start": 44.419,
+   "end": 48.715,
+   "words": [
+    {
+     "w": "Last,",
+     "start": 44.419,
+     "end": 44.767
+    },
+    {
+     "w": "the",
+     "start": 44.802,
+     "end": 44.895
+    },
+    {
+     "w": "well",
+     "start": 44.941,
+     "end": 45.104
+    },
+    {
+     "w": "is",
+     "start": 45.162,
+     "end": 45.232
+    },
+    {
+     "w": "flushed",
+     "start": 45.29,
+     "end": 45.638
+    },
+    {
+     "w": "with",
+     "start": 45.673,
+     "end": 45.812
+    },
+    {
+     "w": "chlorine,",
+     "start": 45.859,
+     "end": 46.369
+    },
+    {
+     "w": "so",
+     "start": 46.416,
+     "end": 46.509
+    },
+    {
+     "w": "the",
+     "start": 46.567,
+     "end": 46.636
+    },
+    {
+     "w": "very",
+     "start": 46.694,
+     "end": 46.915
+    },
+    {
+     "w": "first",
+     "start": 47.008,
+     "end": 47.298
+    },
+    {
+     "w": "glass",
+     "start": 47.356,
+     "end": 47.786
+    },
+    {
+     "w": "is",
+     "start": 47.844,
+     "end": 47.995
+    },
+    {
+     "w": "germ-free.",
+     "start": 48.053,
+     "end": 48.715
+    }
+   ]
+  }
+ ]
+}

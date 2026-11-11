@@ -1,0 +1,26 @@
+{
+ "description": "A natural, real-sounding American man in his mid-30s, warm and curious documentary narrator. Relaxed conversational pace, a slight smile in the voice, clear diction, close and intimate microphone, not a radio announcer, not overly dramatic. Sounds like a friendly expert explaining something fascinating.",
+ "text": "How is a well dug, and why is its water clean? Let's cut the ground open. Under your feet, water hides in sand, gravel and cracked rock.",
+ "previews": [
+  {
+   "name": "A",
+   "generated_voice_id": "F635typDjR3WIF0qJAdL",
+   "duration": 9.405916666666666
+  },
+  {
+   "name": "B",
+   "generated_voice_id": "UKtJK4pqkvhBVlL438PF",
+   "duration": 9.405916666666666
+  },
+  {
+   "name": "C",
+   "generated_voice_id": "wn9kHvDcm0PLAM4w01Bb",
+   "duration": 9.327541666666667
+  }
+ ],
+ "chosen": {
+  "name": "A",
+  "voice_id": "F635typDjR3WIF0qJAdL",
+  "saved_as": "Layer by Layer Narrator"
+ }
+}

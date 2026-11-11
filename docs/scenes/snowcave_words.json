@@ -1,0 +1,937 @@
+{
+ "voice": "eleven:F635typDjR3WIF0qJAdL",
+ "model": "eleven_multilingual_v2",
+ "duration": 45.79,
+ "speech_end": 45.72,
+ "sentences": [
+  {
+   "i": 1,
+   "text": "It's forty below, and in a few hours, this storm will kill you.",
+   "start": 0.035,
+   "end": 3.111,
+   "words": [
+    {
+     "w": "It's",
+     "start": 0.035,
+     "end": 0.174
+    },
+    {
+     "w": "forty",
+     "start": 0.221,
+     "end": 0.441
+    },
+    {
+     "w": "below,",
+     "start": 0.499,
+     "end": 0.894
+    },
+    {
+     "w": "and",
+     "start": 0.94,
+     "end": 1.091
+    },
+    {
+     "w": "in",
+     "start": 1.149,
+     "end": 1.207
+    },
+    {
+     "w": "a",
+     "start": 1.242,
+     "end": 1.265
+    },
+    {
+     "w": "few",
+     "start": 1.324,
+     "end": 1.474
+    },
+    {
+     "w": "hours,",
+     "start": 1.521,
+     "end": 1.892
+    },
+    {
+     "w": "this",
+     "start": 1.974,
+     "end": 2.148
+    },
+    {
+     "w": "storm",
+     "start": 2.183,
+     "end": 2.45
+    },
+    {
+     "w": "will",
+     "start": 2.485,
+     "end": 2.624
+    },
+    {
+     "w": "kill",
+     "start": 2.67,
+     "end": 2.868
+    },
+    {
+     "w": "you.",
+     "start": 2.937,
+     "end": 3.111
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "text": "You can't outrun it. And the wind is what's freezing you.",
+   "start": 3.17,
+   "end": 5.654,
+   "words": [
+    {
+     "w": "You",
+     "start": 3.17,
+     "end": 3.274
+    },
+    {
+     "w": "can't",
+     "start": 3.332,
+     "end": 3.553
+    },
+    {
+     "w": "outrun",
+     "start": 3.599,
+     "end": 3.924
+    },
+    {
+     "w": "it.",
+     "start": 3.959,
+     "end": 4.087
+    },
+    {
+     "w": "And",
+     "start": 4.11,
+     "end": 4.238
+    },
+    {
+     "w": "the",
+     "start": 4.272,
+     "end": 4.342
+    },
+    {
+     "w": "wind",
+     "start": 4.423,
+     "end": 4.69
+    },
+    {
+     "w": "is",
+     "start": 4.737,
+     "end": 4.818
+    },
+    {
+     "w": "what's",
+     "start": 4.865,
+     "end": 5.062
+    },
+    {
+     "w": "freezing",
+     "start": 5.108,
+     "end": 5.433
+    },
+    {
+     "w": "you.",
+     "start": 5.492,
+     "end": 5.654
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "text": "So you dig straight into a snowdrift, and get out of the wind.",
+   "start": 5.677,
+   "end": 8.626,
+   "words": [
+    {
+     "w": "So",
+     "start": 5.677,
+     "end": 5.793
+    },
+    {
+     "w": "you",
+     "start": 5.851,
+     "end": 5.933
+    },
+    {
+     "w": "dig",
+     "start": 6.014,
+     "end": 6.2
+    },
+    {
+     "w": "straight",
+     "start": 6.281,
+     "end": 6.629
+    },
+    {
+     "w": "into",
+     "start": 6.676,
+     "end": 6.827
+    },
+    {
+     "w": "a",
+     "start": 6.896,
+     "end": 6.92
+    },
+    {
+     "w": "snowdrift,",
+     "start": 6.966,
+     "end": 7.5
+    },
+    {
+     "w": "and",
+     "start": 7.535,
+     "end": 7.663
+    },
+    {
+     "w": "get",
+     "start": 7.721,
+     "end": 7.837
+    },
+    {
+     "w": "out",
+     "start": 7.872,
+     "end": 7.976
+    },
+    {
+     "w": "of",
+     "start": 7.999,
+     "end": 8.057
+    },
+    {
+     "w": "the",
+     "start": 8.092,
+     "end": 8.162
+    },
+    {
+     "w": "wind.",
+     "start": 8.208,
+     "end": 8.626
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "text": "But the hole is a freezer, because cold air is pouring in the door.",
+   "start": 9.009,
+   "end": 12.365,
+   "words": [
+    {
+     "w": "But",
+     "start": 9.009,
+     "end": 9.172
+    },
+    {
+     "w": "the",
+     "start": 9.195,
+     "end": 9.265
+    },
+    {
+     "w": "hole",
+     "start": 9.334,
+     "end": 9.59
+    },
+    {
+     "w": "is",
+     "start": 9.648,
+     "end": 9.776
+    },
+    {
+     "w": "a",
+     "start": 9.822,
+     "end": 9.845
+    },
+    {
+     "w": "freezer,",
+     "start": 9.927,
+     "end": 10.426
+    },
+    {
+     "w": "because",
+     "start": 10.461,
+     "end": 10.739
+    },
+    {
+     "w": "cold",
+     "start": 10.786,
+     "end": 11.029
+    },
+    {
+     "w": "air",
+     "start": 11.076,
+     "end": 11.204
+    },
+    {
+     "w": "is",
+     "start": 11.25,
+     "end": 11.332
+    },
+    {
+     "w": "pouring",
+     "start": 11.378,
+     "end": 11.68
+    },
+    {
+     "w": "in",
+     "start": 11.715,
+     "end": 11.761
+    },
+    {
+     "w": "the",
+     "start": 11.808,
+     "end": 11.877
+    },
+    {
+     "w": "door.",
+     "start": 11.924,
+     "end": 12.365
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "text": "So you dig the door low, and you build your bed up high.",
+   "start": 12.516,
+   "end": 15.395,
+   "words": [
+    {
+     "w": "So",
+     "start": 12.516,
+     "end": 12.643
+    },
+    {
+     "w": "you",
+     "start": 12.702,
+     "end": 12.783
+    },
+    {
+     "w": "dig",
+     "start": 12.876,
+     "end": 13.073
+    },
+    {
+     "w": "the",
+     "start": 13.131,
+     "end": 13.201
+    },
+    {
+     "w": "door",
+     "start": 13.247,
+     "end": 13.433
+    },
+    {
+     "w": "low,",
+     "start": 13.514,
+     "end": 13.839
+    },
+    {
+     "w": "and",
+     "start": 13.886,
+     "end": 14.013
+    },
+    {
+     "w": "you",
+     "start": 14.06,
+     "end": 14.141
+    },
+    {
+     "w": "build",
+     "start": 14.211,
+     "end": 14.455
+    },
+    {
+     "w": "your",
+     "start": 14.501,
+     "end": 14.617
+    },
+    {
+     "w": "bed",
+     "start": 14.675,
+     "end": 14.838
+    },
+    {
+     "w": "up",
+     "start": 14.907,
+     "end": 15.012
+    },
+    {
+     "w": "high.",
+     "start": 15.07,
+     "end": 15.395
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "text": "Cold air is heavy. It sinks, and it stays in the tunnel, below you.",
+   "start": 15.441,
+   "end": 18.901,
+   "words": [
+    {
+     "w": "Cold",
+     "start": 15.441,
+     "end": 15.709
+    },
+    {
+     "w": "air",
+     "start": 15.767,
+     "end": 15.917
+    },
+    {
+     "w": "is",
+     "start": 15.976,
+     "end": 16.057
+    },
+    {
+     "w": "heavy.",
+     "start": 16.115,
+     "end": 16.475
+    },
+    {
+     "w": "It",
+     "start": 16.498,
+     "end": 16.626
+    },
+    {
+     "w": "sinks,",
+     "start": 16.684,
+     "end": 17.078
+    },
+    {
+     "w": "and",
+     "start": 17.102,
+     "end": 17.206
+    },
+    {
+     "w": "it",
+     "start": 17.264,
+     "end": 17.334
+    },
+    {
+     "w": "stays",
+     "start": 17.38,
+     "end": 17.694
+    },
+    {
+     "w": "in",
+     "start": 17.74,
+     "end": 17.798
+    },
+    {
+     "w": "the",
+     "start": 17.833,
+     "end": 17.903
+    },
+    {
+     "w": "tunnel,",
+     "start": 17.938,
+     "end": 18.286
+    },
+    {
+     "w": "below",
+     "start": 18.321,
+     "end": 18.599
+    },
+    {
+     "w": "you.",
+     "start": 18.669,
+     "end": 18.901
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "text": "But your body heat melts the ceiling, and now it's raining on you.",
+   "start": 19.284,
+   "end": 22.744,
+   "words": [
+    {
+     "w": "But",
+     "start": 19.284,
+     "end": 19.447
+    },
+    {
+     "w": "your",
+     "start": 19.493,
+     "end": 19.633
+    },
+    {
+     "w": "body",
+     "start": 19.702,
+     "end": 20.016
+    },
+    {
+     "w": "heat",
+     "start": 20.109,
+     "end": 20.341
+    },
+    {
+     "w": "melts",
+     "start": 20.457,
+     "end": 20.736
+    },
+    {
+     "w": "the",
+     "start": 20.794,
+     "end": 20.863
+    },
+    {
+     "w": "ceiling,",
+     "start": 20.91,
+     "end": 21.316
+    },
+    {
+     "w": "and",
+     "start": 21.351,
+     "end": 21.502
+    },
+    {
+     "w": "now",
+     "start": 21.572,
+     "end": 21.757
+    },
+    {
+     "w": "it's",
+     "start": 21.827,
+     "end": 21.955
+    },
+    {
+     "w": "raining",
+     "start": 22.024,
+     "end": 22.291
+    },
+    {
+     "w": "on",
+     "start": 22.361,
+     "end": 22.454
+    },
+    {
+     "w": "you.",
+     "start": 22.512,
+     "end": 22.744
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "text": "So you carve the roof into a smooth dome, and the water runs down the walls.",
+   "start": 23.127,
+   "end": 27.225,
+   "words": [
+    {
+     "w": "So",
+     "start": 23.127,
+     "end": 23.267
+    },
+    {
+     "w": "you",
+     "start": 23.325,
+     "end": 23.406
+    },
+    {
+     "w": "carve",
+     "start": 23.487,
+     "end": 23.777
+    },
+    {
+     "w": "the",
+     "start": 23.812,
+     "end": 23.881
+    },
+    {
+     "w": "roof",
+     "start": 23.94,
+     "end": 24.172
+    },
+    {
+     "w": "into",
+     "start": 24.253,
+     "end": 24.427
+    },
+    {
+     "w": "a",
+     "start": 24.497,
+     "end": 24.52
+    },
+    {
+     "w": "smooth",
+     "start": 24.59,
+     "end": 24.915
+    },
+    {
+     "w": "dome,",
+     "start": 24.984,
+     "end": 25.426
+    },
+    {
+     "w": "and",
+     "start": 25.46,
+     "end": 25.6
+    },
+    {
+     "w": "the",
+     "start": 25.646,
+     "end": 25.716
+    },
+    {
+     "w": "water",
+     "start": 25.762,
+     "end": 26.041
+    },
+    {
+     "w": "runs",
+     "start": 26.122,
+     "end": 26.389
+    },
+    {
+     "w": "down",
+     "start": 26.436,
+     "end": 26.621
+    },
+    {
+     "w": "the",
+     "start": 26.656,
+     "end": 26.726
+    },
+    {
+     "w": "walls.",
+     "start": 26.761,
+     "end": 27.225
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "text": "Now you're warm and dry, and you start to feel sleepy.",
+   "start": 27.318,
+   "end": 29.977,
+   "words": [
+    {
+     "w": "Now",
+     "start": 27.318,
+     "end": 27.481
+    },
+    {
+     "w": "you're",
+     "start": 27.539,
+     "end": 27.713
+    },
+    {
+     "w": "warm",
+     "start": 27.748,
+     "end": 28.003
+    },
+    {
+     "w": "and",
+     "start": 28.049,
+     "end": 28.131
+    },
+    {
+     "w": "dry,",
+     "start": 28.189,
+     "end": 28.572
+    },
+    {
+     "w": "and",
+     "start": 28.607,
+     "end": 28.734
+    },
+    {
+     "w": "you",
+     "start": 28.769,
+     "end": 28.839
+    },
+    {
+     "w": "start",
+     "start": 28.885,
+     "end": 29.094
+    },
+    {
+     "w": "to",
+     "start": 29.129,
+     "end": 29.176
+    },
+    {
+     "w": "feel",
+     "start": 29.222,
+     "end": 29.396
+    },
+    {
+     "w": "sleepy.",
+     "start": 29.454,
+     "end": 29.977
+    }
+   ]
+  },
+  {
+   "i": 10,
+   "text": "That's the carbon dioxide. Every breath is filling this sealed room.",
+   "start": 30.302,
+   "end": 34.528,
+   "words": [
+    {
+     "w": "That's",
+     "start": 30.302,
+     "end": 30.58
+    },
+    {
+     "w": "the",
+     "start": 30.638,
+     "end": 30.708
+    },
+    {
+     "w": "carbon",
+     "start": 30.755,
+     "end": 31.022
+    },
+    {
+     "w": "dioxide.",
+     "start": 31.08,
+     "end": 31.858
+    },
+    {
+     "w": "Every",
+     "start": 32.299,
+     "end": 32.624
+    },
+    {
+     "w": "breath",
+     "start": 32.682,
+     "end": 32.984
+    },
+    {
+     "w": "is",
+     "start": 33.042,
+     "end": 33.135
+    },
+    {
+     "w": "filling",
+     "start": 33.193,
+     "end": 33.483
+    },
+    {
+     "w": "this",
+     "start": 33.553,
+     "end": 33.692
+    },
+    {
+     "w": "sealed",
+     "start": 33.762,
+     "end": 34.098
+    },
+    {
+     "w": "room.",
+     "start": 34.156,
+     "end": 34.528
+    }
+   ]
+  },
+  {
+   "i": 11,
+   "text": "So you poke one small hole in the roof, and you keep it clear all night.",
+   "start": 34.806,
+   "end": 38.626,
+   "words": [
+    {
+     "w": "So",
+     "start": 34.806,
+     "end": 34.946
+    },
+    {
+     "w": "you",
+     "start": 35.004,
+     "end": 35.085
+    },
+    {
+     "w": "poke",
+     "start": 35.166,
+     "end": 35.433
+    },
+    {
+     "w": "one",
+     "start": 35.491,
+     "end": 35.735
+    },
+    {
+     "w": "small",
+     "start": 35.77,
+     "end": 36.072
+    },
+    {
+     "w": "hole",
+     "start": 36.142,
+     "end": 36.362
+    },
+    {
+     "w": "in",
+     "start": 36.397,
+     "end": 36.455
+    },
+    {
+     "w": "the",
+     "start": 36.49,
+     "end": 36.56
+    },
+    {
+     "w": "roof,",
+     "start": 36.606,
+     "end": 37.001
+    },
+    {
+     "w": "and",
+     "start": 37.059,
+     "end": 37.187
+    },
+    {
+     "w": "you",
+     "start": 37.233,
+     "end": 37.315
+    },
+    {
+     "w": "keep",
+     "start": 37.396,
+     "end": 37.593
+    },
+    {
+     "w": "it",
+     "start": 37.64,
+     "end": 37.709
+    },
+    {
+     "w": "clear",
+     "start": 37.756,
+     "end": 38.0
+    },
+    {
+     "w": "all",
+     "start": 38.058,
+     "end": 38.185
+    },
+    {
+     "w": "night.",
+     "start": 38.243,
+     "end": 38.626
+    }
+   ]
+  },
+  {
+   "i": 12,
+   "text": "Outside, it's still forty below. In here, it's thirty-two degrees.",
+   "start": 39.01,
+   "end": 42.899,
+   "words": [
+    {
+     "w": "Outside,",
+     "start": 39.01,
+     "end": 39.66
+    },
+    {
+     "w": "it's",
+     "start": 39.706,
+     "end": 39.88
+    },
+    {
+     "w": "still",
+     "start": 39.904,
+     "end": 40.101
+    },
+    {
+     "w": "forty",
+     "start": 40.171,
+     "end": 40.426
+    },
+    {
+     "w": "below.",
+     "start": 40.496,
+     "end": 40.972
+    },
+    {
+     "w": "In",
+     "start": 41.088,
+     "end": 41.227
+    },
+    {
+     "w": "here,",
+     "start": 41.308,
+     "end": 41.68
+    },
+    {
+     "w": "it's",
+     "start": 41.738,
+     "end": 41.924
+    },
+    {
+     "w": "thirty-two",
+     "start": 41.97,
+     "end": 42.365
+    },
+    {
+     "w": "degrees.",
+     "start": 42.411,
+     "end": 42.899
+    }
+   ]
+  },
+  {
+   "i": 13,
+   "text": "You just survived the night inside a pile of snow.",
+   "start": 42.957,
+   "end": 45.72,
+   "words": [
+    {
+     "w": "You",
+     "start": 42.957,
+     "end": 43.073
+    },
+    {
+     "w": "just",
+     "start": 43.143,
+     "end": 43.305
+    },
+    {
+     "w": "survived",
+     "start": 43.329,
+     "end": 43.746
+    },
+    {
+     "w": "the",
+     "start": 43.781,
+     "end": 43.851
+    },
+    {
+     "w": "night",
+     "start": 43.921,
+     "end": 44.199
+    },
+    {
+     "w": "inside",
+     "start": 44.269,
+     "end": 44.64
+    },
+    {
+     "w": "a",
+     "start": 44.664,
+     "end": 44.699
+    },
+    {
+     "w": "pile",
+     "start": 44.757,
+     "end": 45.047
+    },
+    {
+     "w": "of",
+     "start": 45.082,
+     "end": 45.14
+    },
+    {
+     "w": "snow.",
+     "start": 45.198,
+     "end": 45.72
+    }
+   ]
+  }
+ ]
+}

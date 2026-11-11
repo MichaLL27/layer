@@ -1,0 +1,892 @@
+{
+ "voice": "eleven:F635typDjR3WIF0qJAdL",
+ "model": "eleven_multilingual_v2",
+ "duration": 45.418,
+ "speech_end": 45.268,
+ "sentences": [
+  {
+   "i": 1,
+   "text": "How do you build a tunnel right under a river?",
+   "start": 0.035,
+   "end": 2.345,
+   "words": [
+    {
+     "w": "How",
+     "start": 0.035,
+     "end": 0.139
+    },
+    {
+     "w": "do",
+     "start": 0.163,
+     "end": 0.209
+    },
+    {
+     "w": "you",
+     "start": 0.255,
+     "end": 0.325
+    },
+    {
+     "w": "build",
+     "start": 0.383,
+     "end": 0.58
+    },
+    {
+     "w": "a",
+     "start": 0.627,
+     "end": 0.65
+    },
+    {
+     "w": "tunnel",
+     "start": 0.72,
+     "end": 1.091
+    },
+    {
+     "w": "right",
+     "start": 1.265,
+     "end": 1.509
+    },
+    {
+     "w": "under",
+     "start": 1.579,
+     "end": 1.811
+    },
+    {
+     "w": "a",
+     "start": 1.881,
+     "end": 1.916
+    },
+    {
+     "w": "river?",
+     "start": 1.997,
+     "end": 2.345
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "text": "If you just dig, the roof gives way and the river pours in.",
+   "start": 2.38,
+   "end": 5.608,
+   "words": [
+    {
+     "w": "If",
+     "start": 2.38,
+     "end": 2.508
+    },
+    {
+     "w": "you",
+     "start": 2.543,
+     "end": 2.624
+    },
+    {
+     "w": "just",
+     "start": 2.705,
+     "end": 2.926
+    },
+    {
+     "w": "dig,",
+     "start": 2.984,
+     "end": 3.32
+    },
+    {
+     "w": "the",
+     "start": 3.367,
+     "end": 3.46
+    },
+    {
+     "w": "roof",
+     "start": 3.529,
+     "end": 3.727
+    },
+    {
+     "w": "gives",
+     "start": 3.785,
+     "end": 4.017
+    },
+    {
+     "w": "way",
+     "start": 4.075,
+     "end": 4.319
+    },
+    {
+     "w": "and",
+     "start": 4.389,
+     "end": 4.528
+    },
+    {
+     "w": "the",
+     "start": 4.563,
+     "end": 4.632
+    },
+    {
+     "w": "river",
+     "start": 4.714,
+     "end": 4.957
+    },
+    {
+     "w": "pours",
+     "start": 5.027,
+     "end": 5.317
+    },
+    {
+     "w": "in.",
+     "start": 5.387,
+     "end": 5.608
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "text": "So you dig inside a steel tube, a shield that holds the ground up.",
+   "start": 5.642,
+   "end": 9.079,
+   "words": [
+    {
+     "w": "So",
+     "start": 5.642,
+     "end": 5.759
+    },
+    {
+     "w": "you",
+     "start": 5.817,
+     "end": 5.898
+    },
+    {
+     "w": "dig",
+     "start": 5.968,
+     "end": 6.165
+    },
+    {
+     "w": "inside",
+     "start": 6.223,
+     "end": 6.594
+    },
+    {
+     "w": "a",
+     "start": 6.618,
+     "end": 6.641
+    },
+    {
+     "w": "steel",
+     "start": 6.687,
+     "end": 6.943
+    },
+    {
+     "w": "tube,",
+     "start": 7.012,
+     "end": 7.43
+    },
+    {
+     "w": "a",
+     "start": 7.477,
+     "end": 7.535
+    },
+    {
+     "w": "shield",
+     "start": 7.605,
+     "end": 7.906
+    },
+    {
+     "w": "that",
+     "start": 7.941,
+     "end": 8.046
+    },
+    {
+     "w": "holds",
+     "start": 8.081,
+     "end": 8.313
+    },
+    {
+     "w": "the",
+     "start": 8.359,
+     "end": 8.429
+    },
+    {
+     "w": "ground",
+     "start": 8.464,
+     "end": 8.742
+    },
+    {
+     "w": "up.",
+     "start": 8.812,
+     "end": 9.079
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "text": "But digging by hand takes years, so you bolt a giant spinning wheel on the front.",
+   "start": 9.404,
+   "end": 14.014,
+   "words": [
+    {
+     "w": "But",
+     "start": 9.404,
+     "end": 9.578
+    },
+    {
+     "w": "digging",
+     "start": 9.659,
+     "end": 9.985
+    },
+    {
+     "w": "by",
+     "start": 10.054,
+     "end": 10.217
+    },
+    {
+     "w": "hand",
+     "start": 10.31,
+     "end": 10.623
+    },
+    {
+     "w": "takes",
+     "start": 10.704,
+     "end": 10.971
+    },
+    {
+     "w": "years,",
+     "start": 11.029,
+     "end": 11.471
+    },
+    {
+     "w": "so",
+     "start": 11.505,
+     "end": 11.622
+    },
+    {
+     "w": "you",
+     "start": 11.68,
+     "end": 11.761
+    },
+    {
+     "w": "bolt",
+     "start": 11.842,
+     "end": 12.109
+    },
+    {
+     "w": "a",
+     "start": 12.167,
+     "end": 12.202
+    },
+    {
+     "w": "giant",
+     "start": 12.318,
+     "end": 12.667
+    },
+    {
+     "w": "spinning",
+     "start": 12.725,
+     "end": 13.027
+    },
+    {
+     "w": "wheel",
+     "start": 13.085,
+     "end": 13.305
+    },
+    {
+     "w": "on",
+     "start": 13.363,
+     "end": 13.433
+    },
+    {
+     "w": "the",
+     "start": 13.468,
+     "end": 13.538
+    },
+    {
+     "w": "front.",
+     "start": 13.572,
+     "end": 14.014
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "text": "This is a boring machine.",
+   "start": 14.397,
+   "end": 15.813,
+   "words": [
+    {
+     "w": "This",
+     "start": 14.397,
+     "end": 14.594
+    },
+    {
+     "w": "is",
+     "start": 14.652,
+     "end": 14.733
+    },
+    {
+     "w": "a",
+     "start": 14.78,
+     "end": 14.815
+    },
+    {
+     "w": "boring",
+     "start": 14.896,
+     "end": 15.244
+    },
+    {
+     "w": "machine.",
+     "start": 15.291,
+     "end": 15.813
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "text": "But wet mud pushes through the wheel and floods it, so you pack the space behind the wheel with dirt and squeeze back.",
+   "start": 15.871,
+   "end": 22.024,
+   "words": [
+    {
+     "w": "But",
+     "start": 15.871,
+     "end": 16.034
+    },
+    {
+     "w": "wet",
+     "start": 16.115,
+     "end": 16.347
+    },
+    {
+     "w": "mud",
+     "start": 16.417,
+     "end": 16.661
+    },
+    {
+     "w": "pushes",
+     "start": 16.742,
+     "end": 17.09
+    },
+    {
+     "w": "through",
+     "start": 17.125,
+     "end": 17.334
+    },
+    {
+     "w": "the",
+     "start": 17.357,
+     "end": 17.427
+    },
+    {
+     "w": "wheel",
+     "start": 17.462,
+     "end": 17.706
+    },
+    {
+     "w": "and",
+     "start": 17.775,
+     "end": 17.938
+    },
+    {
+     "w": "floods",
+     "start": 18.019,
+     "end": 18.344
+    },
+    {
+     "w": "it,",
+     "start": 18.379,
+     "end": 18.507
+    },
+    {
+     "w": "so",
+     "start": 18.553,
+     "end": 18.669
+    },
+    {
+     "w": "you",
+     "start": 18.739,
+     "end": 18.82
+    },
+    {
+     "w": "pack",
+     "start": 18.89,
+     "end": 19.076
+    },
+    {
+     "w": "the",
+     "start": 19.145,
+     "end": 19.215
+    },
+    {
+     "w": "space",
+     "start": 19.25,
+     "end": 19.563
+    },
+    {
+     "w": "behind",
+     "start": 19.61,
+     "end": 19.946
+    },
+    {
+     "w": "the",
+     "start": 19.993,
+     "end": 20.062
+    },
+    {
+     "w": "wheel",
+     "start": 20.109,
+     "end": 20.341
+    },
+    {
+     "w": "with",
+     "start": 20.411,
+     "end": 20.562
+    },
+    {
+     "w": "dirt",
+     "start": 20.62,
+     "end": 20.91
+    },
+    {
+     "w": "and",
+     "start": 20.98,
+     "end": 21.142
+    },
+    {
+     "w": "squeeze",
+     "start": 21.212,
+     "end": 21.56
+    },
+    {
+     "w": "back.",
+     "start": 21.607,
+     "end": 22.024
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "text": "Now the river can't get in.",
+   "start": 22.466,
+   "end": 24.23,
+   "words": [
+    {
+     "w": "Now",
+     "start": 22.466,
+     "end": 22.756
+    },
+    {
+     "w": "the",
+     "start": 22.907,
+     "end": 23.023
+    },
+    {
+     "w": "river",
+     "start": 23.116,
+     "end": 23.36
+    },
+    {
+     "w": "can't",
+     "start": 23.429,
+     "end": 23.65
+    },
+    {
+     "w": "get",
+     "start": 23.708,
+     "end": 23.859
+    },
+    {
+     "w": "in.",
+     "start": 23.917,
+     "end": 24.23
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "text": "But the dirt has nowhere to go, so you run a giant screw through the wall.",
+   "start": 24.555,
+   "end": 28.526,
+   "words": [
+    {
+     "w": "But",
+     "start": 24.555,
+     "end": 24.695
+    },
+    {
+     "w": "the",
+     "start": 24.73,
+     "end": 24.799
+    },
+    {
+     "w": "dirt",
+     "start": 24.869,
+     "end": 25.159
+    },
+    {
+     "w": "has",
+     "start": 25.217,
+     "end": 25.357
+    },
+    {
+     "w": "nowhere",
+     "start": 25.473,
+     "end": 25.763
+    },
+    {
+     "w": "to",
+     "start": 25.786,
+     "end": 25.832
+    },
+    {
+     "w": "go,",
+     "start": 25.891,
+     "end": 26.285
+    },
+    {
+     "w": "so",
+     "start": 26.413,
+     "end": 26.517
+    },
+    {
+     "w": "you",
+     "start": 26.587,
+     "end": 26.668
+    },
+    {
+     "w": "run",
+     "start": 26.761,
+     "end": 26.912
+    },
+    {
+     "w": "a",
+     "start": 26.947,
+     "end": 26.982
+    },
+    {
+     "w": "giant",
+     "start": 27.098,
+     "end": 27.481
+    },
+    {
+     "w": "screw",
+     "start": 27.528,
+     "end": 27.806
+    },
+    {
+     "w": "through",
+     "start": 27.853,
+     "end": 28.05
+    },
+    {
+     "w": "the",
+     "start": 28.073,
+     "end": 28.143
+    },
+    {
+     "w": "wall.",
+     "start": 28.178,
+     "end": 28.526
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "text": "But the hole behind you starts to collapse, so a robot arm lines it with concrete rings.",
+   "start": 28.549,
+   "end": 33.309,
+   "words": [
+    {
+     "w": "But",
+     "start": 28.549,
+     "end": 28.689
+    },
+    {
+     "w": "the",
+     "start": 28.712,
+     "end": 28.781
+    },
+    {
+     "w": "hole",
+     "start": 28.839,
+     "end": 29.025
+    },
+    {
+     "w": "behind",
+     "start": 29.06,
+     "end": 29.362
+    },
+    {
+     "w": "you",
+     "start": 29.42,
+     "end": 29.501
+    },
+    {
+     "w": "starts",
+     "start": 29.571,
+     "end": 29.85
+    },
+    {
+     "w": "to",
+     "start": 29.884,
+     "end": 29.942
+    },
+    {
+     "w": "collapse,",
+     "start": 30.0,
+     "end": 30.511
+    },
+    {
+     "w": "so",
+     "start": 30.546,
+     "end": 30.685
+    },
+    {
+     "w": "a",
+     "start": 30.755,
+     "end": 30.778
+    },
+    {
+     "w": "robot",
+     "start": 30.848,
+     "end": 31.243
+    },
+    {
+     "w": "arm",
+     "start": 31.289,
+     "end": 31.463
+    },
+    {
+     "w": "lines",
+     "start": 31.533,
+     "end": 31.835
+    },
+    {
+     "w": "it",
+     "start": 31.893,
+     "end": 31.997
+    },
+    {
+     "w": "with",
+     "start": 32.055,
+     "end": 32.23
+    },
+    {
+     "w": "concrete",
+     "start": 32.288,
+     "end": 32.729
+    },
+    {
+     "w": "rings.",
+     "start": 32.775,
+     "end": 33.309
+    }
+   ]
+  },
+  {
+   "i": 10,
+   "text": "But water seeps through the joints, so every joint gets a rubber seal.",
+   "start": 33.692,
+   "end": 37.698,
+   "words": [
+    {
+     "w": "But",
+     "start": 33.692,
+     "end": 33.878
+    },
+    {
+     "w": "water",
+     "start": 33.948,
+     "end": 34.296
+    },
+    {
+     "w": "seeps",
+     "start": 34.377,
+     "end": 34.679
+    },
+    {
+     "w": "through",
+     "start": 34.714,
+     "end": 34.923
+    },
+    {
+     "w": "the",
+     "start": 34.958,
+     "end": 35.028
+    },
+    {
+     "w": "joints,",
+     "start": 35.074,
+     "end": 35.585
+    },
+    {
+     "w": "so",
+     "start": 35.62,
+     "end": 35.759
+    },
+    {
+     "w": "every",
+     "start": 35.852,
+     "end": 36.165
+    },
+    {
+     "w": "joint",
+     "start": 36.247,
+     "end": 36.56
+    },
+    {
+     "w": "gets",
+     "start": 36.618,
+     "end": 36.816
+    },
+    {
+     "w": "a",
+     "start": 36.839,
+     "end": 36.874
+    },
+    {
+     "w": "rubber",
+     "start": 36.932,
+     "end": 37.175
+    },
+    {
+     "w": "seal.",
+     "start": 37.233,
+     "end": 37.698
+    }
+   ]
+  },
+  {
+   "i": 11,
+   "text": "And how do you move forward?",
+   "start": 38.139,
+   "end": 39.637,
+   "words": [
+    {
+     "w": "And",
+     "start": 38.139,
+     "end": 38.336
+    },
+    {
+     "w": "how",
+     "start": 38.429,
+     "end": 38.569
+    },
+    {
+     "w": "do",
+     "start": 38.615,
+     "end": 38.673
+    },
+    {
+     "w": "you",
+     "start": 38.731,
+     "end": 38.801
+    },
+    {
+     "w": "move",
+     "start": 38.859,
+     "end": 39.045
+    },
+    {
+     "w": "forward?",
+     "start": 39.08,
+     "end": 39.637
+    }
+   ]
+  },
+  {
+   "i": 12,
+   "text": "You shove against the ring you just built.",
+   "start": 40.078,
+   "end": 42.168,
+   "words": [
+    {
+     "w": "You",
+     "start": 40.078,
+     "end": 40.218
+    },
+    {
+     "w": "shove",
+     "start": 40.334,
+     "end": 40.601
+    },
+    {
+     "w": "against",
+     "start": 40.636,
+     "end": 40.903
+    },
+    {
+     "w": "the",
+     "start": 40.937,
+     "end": 41.007
+    },
+    {
+     "w": "ring",
+     "start": 41.1,
+     "end": 41.344
+    },
+    {
+     "w": "you",
+     "start": 41.402,
+     "end": 41.495
+    },
+    {
+     "w": "just",
+     "start": 41.576,
+     "end": 41.773
+    },
+    {
+     "w": "built.",
+     "start": 41.82,
+     "end": 42.168
+    }
+   ]
+  },
+  {
+   "i": 13,
+   "text": "Congratulations. You have built a tunnel under a river.",
+   "start": 42.226,
+   "end": 45.268,
+   "words": [
+    {
+     "w": "Congratulations.",
+     "start": 42.226,
+     "end": 43.143
+    },
+    {
+     "w": "You",
+     "start": 43.225,
+     "end": 43.364
+    },
+    {
+     "w": "have",
+     "start": 43.434,
+     "end": 43.573
+    },
+    {
+     "w": "built",
+     "start": 43.608,
+     "end": 43.852
+    },
+    {
+     "w": "a",
+     "start": 43.898,
+     "end": 43.933
+    },
+    {
+     "w": "tunnel",
+     "start": 43.991,
+     "end": 44.351
+    },
+    {
+     "w": "under",
+     "start": 44.478,
+     "end": 44.711
+    },
+    {
+     "w": "a",
+     "start": 44.769,
+     "end": 44.792
+    },
+    {
+     "w": "river.",
+     "start": 44.862,
+     "end": 45.268
+    }
+   ]
+  }
+ ]
+}

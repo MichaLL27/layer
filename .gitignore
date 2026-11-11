@@ -1,0 +1,48 @@
+# scratch + renders
+output/
+final/**/*.mp4
+final/**/*.wav
+*.mp4
+*.wav
+*.mov
+
+# Unity
+WeMadeIt_Unity/Library/
+WeMadeIt_Unity/Temp/
+WeMadeIt_Unity/Obj/
+WeMadeIt_Unity/Logs/
+WeMadeIt_Unity/UserSettings/
+WeMadeIt_Unity/Builds/
+WeMadeIt_Unity/Recordings/
+*.csproj
+*.sln
+*.slnx
+
+# Blender
+*.blend1
+*.blend2
+
+# secrets / local
+.env
+.claude/browser.local
+.playwright-mcp/
+__pycache__/
+
+# keep tiny reference stills, not reference videos
+!research/reference-youmadeit/frames/*.png
+
+# downloaded CC0 assets (re-fetch with tools/fetch_polyhaven.py)
+/assets/
+
+# second Unity test project
+WeMadeIt_Unity_builtin/Library/
+WeMadeIt_Unity_builtin/Logs/
+WeMadeIt_Unity_builtin/UserSettings/
+WeMadeIt_Unity_builtin/Temp/
+.vscode/
+
+# re-fetchable / not ours to redistribute: Poly Haven (tools/fetch_polyhaven.py), Mixamo (Adobe licence)
+WeMadeIt_Unity/Assets/Resources/PH/
+WeMadeIt_Unity/Assets/Resources/PH.meta
+WeMadeIt_Unity/Assets/Resources/Mixamo/
+WeMadeIt_Unity/Assets/Resources/Mixamo.meta

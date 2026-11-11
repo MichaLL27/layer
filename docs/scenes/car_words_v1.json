@@ -1,0 +1,929 @@
+{
+ "voice": "eleven:F635typDjR3WIF0qJAdL",
+ "model": "eleven_multilingual_v2",
+ "duration": 47.554,
+ "speech_end": 47.414,
+ "sentences": [
+  {
+   "i": 1,
+   "text": "If your car goes off a bridge into a river, it floats for about a minute, then it sinks.",
+   "start": 0.035,
+   "end": 4.656,
+   "words": [
+    {
+     "w": "If",
+     "start": 0.035,
+     "end": 0.116
+    },
+    {
+     "w": "your",
+     "start": 0.151,
+     "end": 0.267
+    },
+    {
+     "w": "car",
+     "start": 0.313,
+     "end": 0.534
+    },
+    {
+     "w": "goes",
+     "start": 0.604,
+     "end": 0.778
+    },
+    {
+     "w": "off",
+     "start": 0.848,
+     "end": 1.022
+    },
+    {
+     "w": "a",
+     "start": 1.08,
+     "end": 1.103
+    },
+    {
+     "w": "bridge",
+     "start": 1.184,
+     "end": 1.625
+    },
+    {
+     "w": "into",
+     "start": 1.66,
+     "end": 1.8
+    },
+    {
+     "w": "a",
+     "start": 1.892,
+     "end": 1.916
+    },
+    {
+     "w": "river,",
+     "start": 1.997,
+     "end": 2.357
+    },
+    {
+     "w": "it",
+     "start": 2.415,
+     "end": 2.531
+    },
+    {
+     "w": "floats",
+     "start": 2.601,
+     "end": 2.937
+    },
+    {
+     "w": "for",
+     "start": 2.984,
+     "end": 3.1
+    },
+    {
+     "w": "about",
+     "start": 3.146,
+     "end": 3.355
+    },
+    {
+     "w": "a",
+     "start": 3.39,
+     "end": 3.413
+    },
+    {
+     "w": "minute,",
+     "start": 3.495,
+     "end": 3.843
+    },
+    {
+     "w": "then",
+     "start": 3.878,
+     "end": 4.029
+    },
+    {
+     "w": "it",
+     "start": 4.063,
+     "end": 4.133
+    },
+    {
+     "w": "sinks.",
+     "start": 4.191,
+     "end": 4.656
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "text": "Your first thought is to call for help, but there's no time. So you leave the phone.",
+   "start": 4.69,
+   "end": 9.102,
+   "words": [
+    {
+     "w": "Your",
+     "start": 4.69,
+     "end": 4.853
+    },
+    {
+     "w": "first",
+     "start": 4.911,
+     "end": 5.132
+    },
+    {
+     "w": "thought",
+     "start": 5.166,
+     "end": 5.41
+    },
+    {
+     "w": "is",
+     "start": 5.468,
+     "end": 5.561
+    },
+    {
+     "w": "to",
+     "start": 5.608,
+     "end": 5.654
+    },
+    {
+     "w": "call",
+     "start": 5.712,
+     "end": 5.875
+    },
+    {
+     "w": "for",
+     "start": 5.921,
+     "end": 6.026
+    },
+    {
+     "w": "help,",
+     "start": 6.095,
+     "end": 6.362
+    },
+    {
+     "w": "but",
+     "start": 6.385,
+     "end": 6.583
+    },
+    {
+     "w": "there's",
+     "start": 6.629,
+     "end": 6.838
+    },
+    {
+     "w": "no",
+     "start": 6.873,
+     "end": 6.954
+    },
+    {
+     "w": "time.",
+     "start": 7.024,
+     "end": 7.465
+    },
+    {
+     "w": "So",
+     "start": 7.709,
+     "end": 7.964
+    },
+    {
+     "w": "you",
+     "start": 8.139,
+     "end": 8.255
+    },
+    {
+     "w": "leave",
+     "start": 8.324,
+     "end": 8.499
+    },
+    {
+     "w": "the",
+     "start": 8.533,
+     "end": 8.603
+    },
+    {
+     "w": "phone.",
+     "start": 8.638,
+     "end": 9.102
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "text": "Seatbelt off first, or it holds you down when the water rises.",
+   "start": 9.427,
+   "end": 12.84,
+   "words": [
+    {
+     "w": "Seatbelt",
+     "start": 9.427,
+     "end": 9.915
+    },
+    {
+     "w": "off",
+     "start": 9.973,
+     "end": 10.124
+    },
+    {
+     "w": "first,",
+     "start": 10.182,
+     "end": 10.635
+    },
+    {
+     "w": "or",
+     "start": 10.693,
+     "end": 10.809
+    },
+    {
+     "w": "it",
+     "start": 10.867,
+     "end": 10.937
+    },
+    {
+     "w": "holds",
+     "start": 10.995,
+     "end": 11.227
+    },
+    {
+     "w": "you",
+     "start": 11.25,
+     "end": 11.32
+    },
+    {
+     "w": "down",
+     "start": 11.389,
+     "end": 11.656
+    },
+    {
+     "w": "when",
+     "start": 11.714,
+     "end": 11.842
+    },
+    {
+     "w": "the",
+     "start": 11.877,
+     "end": 11.946
+    },
+    {
+     "w": "water",
+     "start": 11.993,
+     "end": 12.236
+    },
+    {
+     "w": "rises.",
+     "start": 12.295,
+     "end": 12.84
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "text": "Then you push the door, but the river holds it shut with half a ton of force.",
+   "start": 13.084,
+   "end": 16.915,
+   "words": [
+    {
+     "w": "Then",
+     "start": 13.084,
+     "end": 13.258
+    },
+    {
+     "w": "you",
+     "start": 13.305,
+     "end": 13.386
+    },
+    {
+     "w": "push",
+     "start": 13.444,
+     "end": 13.641
+    },
+    {
+     "w": "the",
+     "start": 13.699,
+     "end": 13.769
+    },
+    {
+     "w": "door,",
+     "start": 13.815,
+     "end": 14.164
+    },
+    {
+     "w": "but",
+     "start": 14.199,
+     "end": 14.338
+    },
+    {
+     "w": "the",
+     "start": 14.373,
+     "end": 14.442
+    },
+    {
+     "w": "river",
+     "start": 14.524,
+     "end": 14.802
+    },
+    {
+     "w": "holds",
+     "start": 14.895,
+     "end": 15.174
+    },
+    {
+     "w": "it",
+     "start": 15.22,
+     "end": 15.29
+    },
+    {
+     "w": "shut",
+     "start": 15.348,
+     "end": 15.627
+    },
+    {
+     "w": "with",
+     "start": 15.673,
+     "end": 15.847
+    },
+    {
+     "w": "half",
+     "start": 15.928,
+     "end": 16.149
+    },
+    {
+     "w": "a",
+     "start": 16.195,
+     "end": 16.219
+    },
+    {
+     "w": "ton",
+     "start": 16.265,
+     "end": 16.404
+    },
+    {
+     "w": "of",
+     "start": 16.451,
+     "end": 16.497
+    },
+    {
+     "w": "force.",
+     "start": 16.567,
+     "end": 16.915
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "text": "So you open the window while the power still works. This is your way out.",
+   "start": 16.939,
+   "end": 21.072,
+   "words": [
+    {
+     "w": "So",
+     "start": 16.939,
+     "end": 17.043
+    },
+    {
+     "w": "you",
+     "start": 17.113,
+     "end": 17.194
+    },
+    {
+     "w": "open",
+     "start": 17.345,
+     "end": 17.623
+    },
+    {
+     "w": "the",
+     "start": 17.67,
+     "end": 17.74
+    },
+    {
+     "w": "window",
+     "start": 17.786,
+     "end": 18.1
+    },
+    {
+     "w": "while",
+     "start": 18.25,
+     "end": 18.471
+    },
+    {
+     "w": "the",
+     "start": 18.494,
+     "end": 18.564
+    },
+    {
+     "w": "power",
+     "start": 18.61,
+     "end": 18.901
+    },
+    {
+     "w": "still",
+     "start": 18.97,
+     "end": 19.191
+    },
+    {
+     "w": "works.",
+     "start": 19.249,
+     "end": 19.748
+    },
+    {
+     "w": "This",
+     "start": 19.992,
+     "end": 20.154
+    },
+    {
+     "w": "is",
+     "start": 20.213,
+     "end": 20.282
+    },
+    {
+     "w": "your",
+     "start": 20.329,
+     "end": 20.445
+    },
+    {
+     "w": "way",
+     "start": 20.503,
+     "end": 20.63
+    },
+    {
+     "w": "out.",
+     "start": 20.7,
+     "end": 21.072
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "text": "But the button dies. So you hit the corner of the side glass with a window breaker.",
+   "start": 21.315,
+   "end": 25.738,
+   "words": [
+    {
+     "w": "But",
+     "start": 21.315,
+     "end": 21.455
+    },
+    {
+     "w": "the",
+     "start": 21.478,
+     "end": 21.548
+    },
+    {
+     "w": "button",
+     "start": 21.582,
+     "end": 21.838
+    },
+    {
+     "w": "dies.",
+     "start": 21.908,
+     "end": 22.43
+    },
+    {
+     "w": "So",
+     "start": 22.755,
+     "end": 22.871
+    },
+    {
+     "w": "you",
+     "start": 22.929,
+     "end": 22.999
+    },
+    {
+     "w": "hit",
+     "start": 23.069,
+     "end": 23.22
+    },
+    {
+     "w": "the",
+     "start": 23.254,
+     "end": 23.324
+    },
+    {
+     "w": "corner",
+     "start": 23.394,
+     "end": 23.719
+    },
+    {
+     "w": "of",
+     "start": 23.777,
+     "end": 23.823
+    },
+    {
+     "w": "the",
+     "start": 23.87,
+     "end": 23.939
+    },
+    {
+     "w": "side",
+     "start": 23.986,
+     "end": 24.253
+    },
+    {
+     "w": "glass",
+     "start": 24.288,
+     "end": 24.647
+    },
+    {
+     "w": "with",
+     "start": 24.693,
+     "end": 24.821
+    },
+    {
+     "w": "a",
+     "start": 24.856,
+     "end": 24.879
+    },
+    {
+     "w": "window",
+     "start": 24.937,
+     "end": 25.193
+    },
+    {
+     "w": "breaker.",
+     "start": 25.251,
+     "end": 25.738
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "text": "Never the windshield. It's laminated and won't break.",
+   "start": 25.913,
+   "end": 28.629,
+   "words": [
+    {
+     "w": "Never",
+     "start": 25.913,
+     "end": 26.145
+    },
+    {
+     "w": "the",
+     "start": 26.191,
+     "end": 26.261
+    },
+    {
+     "w": "windshield.",
+     "start": 26.296,
+     "end": 26.83
+    },
+    {
+     "w": "It's",
+     "start": 26.853,
+     "end": 27.015
+    },
+    {
+     "w": "laminated",
+     "start": 27.074,
+     "end": 27.689
+    },
+    {
+     "w": "and",
+     "start": 27.77,
+     "end": 27.921
+    },
+    {
+     "w": "won't",
+     "start": 27.991,
+     "end": 28.176
+    },
+    {
+     "w": "break.",
+     "start": 28.223,
+     "end": 28.629
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "text": "Now the river pours in, and the heavy engine tips the car nose down.",
+   "start": 28.699,
+   "end": 32.472,
+   "words": [
+    {
+     "w": "Now",
+     "start": 28.699,
+     "end": 28.861
+    },
+    {
+     "w": "the",
+     "start": 28.92,
+     "end": 28.989
+    },
+    {
+     "w": "river",
+     "start": 29.082,
+     "end": 29.349
+    },
+    {
+     "w": "pours",
+     "start": 29.419,
+     "end": 29.709
+    },
+    {
+     "w": "in,",
+     "start": 29.779,
+     "end": 29.999
+    },
+    {
+     "w": "and",
+     "start": 30.034,
+     "end": 30.173
+    },
+    {
+     "w": "the",
+     "start": 30.22,
+     "end": 30.289
+    },
+    {
+     "w": "heavy",
+     "start": 30.359,
+     "end": 30.591
+    },
+    {
+     "w": "engine",
+     "start": 30.673,
+     "end": 30.998
+    },
+    {
+     "w": "tips",
+     "start": 31.044,
+     "end": 31.323
+    },
+    {
+     "w": "the",
+     "start": 31.369,
+     "end": 31.439
+    },
+    {
+     "w": "car",
+     "start": 31.485,
+     "end": 31.659
+    },
+    {
+     "w": "nose",
+     "start": 31.729,
+     "end": 31.973
+    },
+    {
+     "w": "down.",
+     "start": 32.019,
+     "end": 32.472
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "text": "Kids go out first, through the window, then you.",
+   "start": 32.983,
+   "end": 35.595,
+   "words": [
+    {
+     "w": "Kids",
+     "start": 32.983,
+     "end": 33.262
+    },
+    {
+     "w": "go",
+     "start": 33.308,
+     "end": 33.401
+    },
+    {
+     "w": "out",
+     "start": 33.471,
+     "end": 33.61
+    },
+    {
+     "w": "first,",
+     "start": 33.68,
+     "end": 34.098
+    },
+    {
+     "w": "through",
+     "start": 34.144,
+     "end": 34.388
+    },
+    {
+     "w": "the",
+     "start": 34.411,
+     "end": 34.481
+    },
+    {
+     "w": "window,",
+     "start": 34.516,
+     "end": 34.933
+    },
+    {
+     "w": "then",
+     "start": 35.003,
+     "end": 35.166
+    },
+    {
+     "w": "you.",
+     "start": 35.224,
+     "end": 35.595
+    }
+   ]
+  },
+  {
+   "i": 10,
+   "text": "And if nothing breaks? Wait until the car fills. Then the pressure evens out and the door opens.",
+   "start": 36.036,
+   "end": 41.795,
+   "words": [
+    {
+     "w": "And",
+     "start": 36.036,
+     "end": 36.176
+    },
+    {
+     "w": "if",
+     "start": 36.222,
+     "end": 36.303
+    },
+    {
+     "w": "nothing",
+     "start": 36.385,
+     "end": 36.652
+    },
+    {
+     "w": "breaks?",
+     "start": 36.721,
+     "end": 37.29
+    },
+    {
+     "w": "Wait",
+     "start": 37.569,
+     "end": 37.778
+    },
+    {
+     "w": "until",
+     "start": 37.813,
+     "end": 38.033
+    },
+    {
+     "w": "the",
+     "start": 38.079,
+     "end": 38.149
+    },
+    {
+     "w": "car",
+     "start": 38.184,
+     "end": 38.358
+    },
+    {
+     "w": "fills.",
+     "start": 38.439,
+     "end": 38.95
+    },
+    {
+     "w": "Then",
+     "start": 39.333,
+     "end": 39.507
+    },
+    {
+     "w": "the",
+     "start": 39.554,
+     "end": 39.624
+    },
+    {
+     "w": "pressure",
+     "start": 39.682,
+     "end": 40.065
+    },
+    {
+     "w": "evens",
+     "start": 40.146,
+     "end": 40.471
+    },
+    {
+     "w": "out",
+     "start": 40.529,
+     "end": 40.738
+    },
+    {
+     "w": "and",
+     "start": 40.796,
+     "end": 40.924
+    },
+    {
+     "w": "the",
+     "start": 40.97,
+     "end": 41.04
+    },
+    {
+     "w": "door",
+     "start": 41.075,
+     "end": 41.295
+    },
+    {
+     "w": "opens.",
+     "start": 41.365,
+     "end": 41.795
+    }
+   ]
+  },
+  {
+   "i": 11,
+   "text": "Take a breath, push off, and swim toward the light.",
+   "start": 41.841,
+   "end": 44.395,
+   "words": [
+    {
+     "w": "Take",
+     "start": 41.841,
+     "end": 42.05
+    },
+    {
+     "w": "a",
+     "start": 42.073,
+     "end": 42.108
+    },
+    {
+     "w": "breath,",
+     "start": 42.155,
+     "end": 42.526
+    },
+    {
+     "w": "push",
+     "start": 42.561,
+     "end": 42.816
+    },
+    {
+     "w": "off,",
+     "start": 42.898,
+     "end": 43.141
+    },
+    {
+     "w": "and",
+     "start": 43.165,
+     "end": 43.304
+    },
+    {
+     "w": "swim",
+     "start": 43.362,
+     "end": 43.629
+    },
+    {
+     "w": "toward",
+     "start": 43.699,
+     "end": 43.954
+    },
+    {
+     "w": "the",
+     "start": 43.989,
+     "end": 44.059
+    },
+    {
+     "w": "light.",
+     "start": 44.117,
+     "end": 44.395
+    }
+   ]
+  },
+  {
+   "i": 12,
+   "text": "Congratulations. You just got out of a sinking car.",
+   "start": 44.418,
+   "end": 47.414,
+   "words": [
+    {
+     "w": "Congratulations.",
+     "start": 44.418,
+     "end": 45.394
+    },
+    {
+     "w": "You",
+     "start": 45.719,
+     "end": 45.847
+    },
+    {
+     "w": "just",
+     "start": 45.916,
+     "end": 46.079
+    },
+    {
+     "w": "got",
+     "start": 46.125,
+     "end": 46.288
+    },
+    {
+     "w": "out",
+     "start": 46.334,
+     "end": 46.427
+    },
+    {
+     "w": "of",
+     "start": 46.462,
+     "end": 46.508
+    },
+    {
+     "w": "a",
+     "start": 46.543,
+     "end": 46.566
+    },
+    {
+     "w": "sinking",
+     "start": 46.624,
+     "end": 46.926
+    },
+    {
+     "w": "car.",
+     "start": 46.984,
+     "end": 47.414
+    }
+   ]
+  }
+ ]
+}
